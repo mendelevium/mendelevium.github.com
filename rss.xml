@@ -32,19 +32,9 @@
     <pubDate>Sun, 01 Nov 2015 15:54:00 -0500</pubDate>
   </item>
   <item>
-    <title>Evanston: A Suburb That Actively Discourages Cars</title>
-    <link>http://www.politico.com/magazine/story/2015/10/evanston-illinois-what-works-213282</link>
-    <pubDate>Sun, 1 Nov 2015 04:45:09 +0000</pubDate>
-  </item>
-  <item>
     <title>Neovim public release 0.1.0</title>
     <link>https://github.com/neovim/neovim/releases/tag/v0.1.0</link>
     <pubDate>Sun, 1 Nov 2015 20:48:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>Search Engine Showdown: Google vs. Bing</title>
-    <link>http://lifehacker.com/search-engine-showdown-google-vs-bing-1739263052</link>
-    <pubDate>Sun, 1 Nov 2015 16:00:00 GMT</pubDate>
   </item>
   <item>
     <title>WebAssembly: a binary format for the web</title>
@@ -52,9 +42,9 @@
     <pubDate>Sun, 1 Nov 2015 19:22:32 +0000</pubDate>
   </item>
   <item>
-    <title>Augmented Reality: Believe The Hype (Cycle)</title>
-    <link>http://techcrunch.com/2015/11/01/augmented-reality-believe-the-hype-cycle/?ncid=rss</link>
-    <pubDate>Sun, 01 Nov 2015 20:00:16 +0000</pubDate>
+    <title>Search Engine Showdown: Google vs. Bing</title>
+    <link>http://lifehacker.com/search-engine-showdown-google-vs-bing-1739263052</link>
+    <pubDate>Sun, 1 Nov 2015 16:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Making Insider Trading Legal</title>
@@ -62,24 +52,34 @@
     <pubDate>Sun, 1 Nov 2015 15:41:46 +0000</pubDate>
   </item>
   <item>
-    <title>Instagram Launches A Curated Feed Around Events, Starting With Halloween</title>
-    <link>http://techcrunch.com/2015/11/01/instagram-launches-a-curated-feed-around-events-starting-with-halloween/?ncid=rss</link>
-    <pubDate>Sun, 01 Nov 2015 17:36:00 +0000</pubDate>
-  </item>
-  <item>
     <title>How a group of neighbors created their own Internet service</title>
     <link>http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/</link>
     <pubDate>Sun, 1 Nov 2015 18:17:48 +0000</pubDate>
   </item>
   <item>
-    <title>Sunday's Best Deals: Pebble Time, Calvin Klein, Breaking Bad, and More</title>
-    <link>http://deals.kinja.com/sundays-best-deals-pebble-time-calvin-klein-breaking-1739889000</link>
-    <pubDate>Sun, 1 Nov 2015 13:39:17 GMT</pubDate>
+    <title>Instagram Launches A Curated Feed Around Events, Starting With Halloween</title>
+    <link>http://techcrunch.com/2015/11/01/instagram-launches-a-curated-feed-around-events-starting-with-halloween/?ncid=rss</link>
+    <pubDate>Sun, 01 Nov 2015 17:36:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Augmented Reality: Believe The Hype (Cycle)</title>
+    <link>http://techcrunch.com/2015/11/01/augmented-reality-believe-the-hype-cycle/?ncid=rss</link>
+    <pubDate>Sun, 01 Nov 2015 20:00:16 +0000</pubDate>
   </item>
   <item>
     <title>You might not have to update next-gen antivirus software</title>
     <link>http://www.engadget.com/2015/11/01/you-might-not-have-to-update-next-gen-antivirus-software/</link>
     <pubDate>Sun, 01 Nov 2015 12:20:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Checkr (YC S14) is hiring Full Stack Hackers to build the future of online trust</title>
+    <link>http://grnh.se/m0spnl</link>
+    <pubDate>Sun, 1 Nov 2015 22:20:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sunday's Best Deals: Pebble Time, Calvin Klein, Breaking Bad, and More</title>
+    <link>http://deals.kinja.com/sundays-best-deals-pebble-time-calvin-klein-breaking-1739889000</link>
+    <pubDate>Sun, 1 Nov 2015 13:39:17 GMT</pubDate>
   </item>
   <item>
     <title>Watson's melt-in-your-mouth Moroccan almond curry</title>
@@ -162,11 +162,6 @@
     <pubDate>Sat, 31 Oct 2015 22:01:00 -0400</pubDate>
   </item>
   <item>
-    <title>Leading 'anti adblock' provider gets hacked- pushed malware to end users</title>
-    <link>http://blog.pagefair.com/2015/halloween-security-breach/</link>
-    <pubDate>Sun, 1 Nov 2015 21:44:01 +0000</pubDate>
-  </item>
-  <item>
     <title>The Path To Expertise</title>
     <link>http://techcrunch.com/2015/10/31/the-path-to-expertise/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 22:00:31 +0000</pubDate>
@@ -182,6 +177,11 @@
     <pubDate>Sat, 31 Oct 2015 06:18:00 -0400</pubDate>
   </item>
   <item>
+    <title>Leading 'anti adblock' provider gets hacked- pushed malware to end users</title>
+    <link>http://blog.pagefair.com/2015/halloween-security-breach/</link>
+    <pubDate>Sun, 1 Nov 2015 21:44:01 +0000</pubDate>
+  </item>
+  <item>
     <title>Can Civil Comments Kill The Internet Troll?</title>
     <link>http://techcrunch.com/2015/10/31/can-civil-comments-kill-internet-trolls/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 17:00:23 +0000</pubDate>
@@ -192,19 +192,9 @@
     <pubDate>Sat, 31 Oct 2015 17:00:00 -0400</pubDate>
   </item>
   <item>
-    <title>An Exact Algorithm for Finding Minimum Oriented Bounding Boxes [pdf]</title>
-    <link>http://clb.demon.fi/minobb/minobb_jylanki_2015_06_01.pdf</link>
-    <pubDate>Sun, 1 Nov 2015 21:09:29 +0000</pubDate>
-  </item>
-  <item>
     <title>DJI Osmo review: A hand-held stabilized camera worthy of its price</title>
     <link>http://www.engadget.com/2015/10/31/dji-osmo-review/</link>
     <pubDate>Sat, 31 Oct 2015 14:01:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>PalDB: An embeddable write-once key-value store written in Java</title>
-    <link>https://github.com/linkedin/PalDB</link>
-    <pubDate>Sun, 1 Nov 2015 20:36:51 +0000</pubDate>
   </item>
   <item>
     <title>Liquid Bitcoin</title>
@@ -215,6 +205,11 @@
     <title>Nuka-Cola Quantum available in time for 'Fallout 4'</title>
     <link>http://www.engadget.com/2015/10/31/nuka-cola-quantum-fallout/</link>
     <pubDate>Sat, 31 Oct 2015 11:26:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>An Exact Algorithm for Finding Minimum Oriented Bounding Boxes [pdf]</title>
+    <link>http://clb.demon.fi/minobb/minobb_jylanki_2015_06_01.pdf</link>
+    <pubDate>Sun, 1 Nov 2015 21:09:29 +0000</pubDate>
   </item>
   <item>
     <title>Medicine-covered nanoparticles could help stroke victims</title>
@@ -235,6 +230,16 @@
     <title>How To Extract More Than Capital From Your VCs</title>
     <link>http://techcrunch.com/2015/10/31/how-to-extract-more-than-capital-from-your-vcs/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 19:00:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>PalDB: An embeddable write-once key-value store written in Java</title>
+    <link>https://github.com/linkedin/PalDB</link>
+    <pubDate>Sun, 1 Nov 2015 20:36:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>Tatto-like Skin sensors could improve elderly, community, prenatal health</title>
+    <link>http://mitsloan.mit.edu/newsroom/articles/skin-sensors-could-improve-elderly-community-prenatal-health/?utm_source=mitsloantwitter&amp;utm_medium=social&amp;utm_campaign=skinsensor</link>
+    <pubDate>Sun, 1 Nov 2015 19:23:04 +0000</pubDate>
   </item>
   <item>
     <title>Cassini gets cozy with Saturn's moon, flies 30 miles above its surface</title>
@@ -267,11 +272,6 @@
     <pubDate>Fri, 30 Oct 2015 19:43:00 -0400</pubDate>
   </item>
   <item>
-    <title>More Apple Car Thoughts: Software Culture</title>
-    <link>http://www.mondaynote.com/2015/11/01/more-apple-car-thoughts-software-culture/</link>
-    <pubDate>Sun, 1 Nov 2015 18:56:21 +0000</pubDate>
-  </item>
-  <item>
     <title>​Uber shuts down in three German cities amid driver shortage</title>
     <link>http://www.engadget.com/2015/10/30/uber-shuts-down-in-three-german-cities-amid-driver-shortage/</link>
     <pubDate>Fri, 30 Oct 2015 23:14:00 -0400</pubDate>
@@ -292,6 +292,11 @@
     <pubDate>Sat, 31 Oct 2015 02:13:06 +0000</pubDate>
   </item>
   <item>
+    <title>More Apple Car Thoughts: Software Culture</title>
+    <link>http://www.mondaynote.com/2015/11/01/more-apple-car-thoughts-software-culture/</link>
+    <pubDate>Sun, 1 Nov 2015 18:56:21 +0000</pubDate>
+  </item>
+  <item>
     <title>National U.S. Privacy Laws Are Needed</title>
     <link>http://techcrunch.com/2015/10/30/national-u-s-privacy-laws-are-needed/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 03:00:23 +0000</pubDate>
@@ -302,11 +307,6 @@
     <pubDate>Sat, 31 Oct 2015 18:15:06 +0000</pubDate>
   </item>
   <item>
-    <title>HTML5 games: 3D collision detection</title>
-    <link>https://hacks.mozilla.org/2015/10/html-5-games-3d-collision-detection/</link>
-    <pubDate>Sun, 1 Nov 2015 12:55:35 +0000</pubDate>
-  </item>
-  <item>
     <title>Stingray phone surveillance tools can also record your calls</title>
     <link>http://www.engadget.com/2015/10/30/stingray-voice-calls/</link>
     <pubDate>Fri, 30 Oct 2015 18:24:00 -0400</pubDate>
@@ -315,6 +315,11 @@
     <title>Protect Yo-self: 9 Ways To See If A Company Has Your Best Interests at Heart</title>
     <link>http://techcrunch.com/gallery/protect-yo-self-9-ways-to-see-if-a-company-has-your-best-interests-at-heart/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 01:30:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>HTML5 games: 3D collision detection</title>
+    <link>https://hacks.mozilla.org/2015/10/html-5-games-3d-collision-detection/</link>
+    <pubDate>Sun, 1 Nov 2015 12:55:35 +0000</pubDate>
   </item>
   <item>
     <title>This Week's Top Downloads</title>
@@ -332,24 +337,24 @@
     <pubDate>Sat, 31 Oct 2015 10:00:00 -0400</pubDate>
   </item>
   <item>
-    <title>Run Split View and Picture In Picture at the Same Time on the iPad</title>
-    <link>http://lifehacker.com/run-split-view-and-picture-in-picture-at-the-same-time-1739424018</link>
-    <pubDate>Sat, 31 Oct 2015 21:00:00 GMT</pubDate>
-  </item>
-  <item>
     <title>Top 10 Evil Ways to Use Technology</title>
     <link>http://lifehacker.com/top-10-evil-ways-to-use-technology-1739793718</link>
     <pubDate>Sat, 31 Oct 2015 15:01:01 GMT</pubDate>
   </item>
   <item>
-    <title>Reel Scary Helps You Find the Perfect Scary Movie</title>
-    <link>http://lifehacker.com/reel-scary-helps-you-find-the-perfect-scary-movie-1739834088</link>
-    <pubDate>Sat, 31 Oct 2015 22:00:00 GMT</pubDate>
+    <title>Run Split View and Picture In Picture at the Same Time on the iPad</title>
+    <link>http://lifehacker.com/run-split-view-and-picture-in-picture-at-the-same-time-1739424018</link>
+    <pubDate>Sat, 31 Oct 2015 21:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Congress pushes deadline to make trains safer to 2018</title>
     <link>http://www.engadget.com/2015/10/30/congress-train-ptc/</link>
     <pubDate>Fri, 30 Oct 2015 19:09:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>Reel Scary Helps You Find the Perfect Scary Movie</title>
+    <link>http://lifehacker.com/reel-scary-helps-you-find-the-perfect-scary-movie-1739834088</link>
+    <pubDate>Sat, 31 Oct 2015 22:00:00 GMT</pubDate>
   </item>
   <item>
     <title>This Graphic Helps You Identify Your Home's Biggest Energy Costs</title>
@@ -392,24 +397,19 @@
     <pubDate>Sun, 1 Nov 2015 12:11:04 +0000</pubDate>
   </item>
   <item>
-    <title>Ask HN: How to get stock as a contractor or consultant?</title>
-    <link>https://news.ycombinator.com/item?id=10488545</link>
-    <pubDate>Sun, 1 Nov 2015 22:00:54 +0000</pubDate>
-  </item>
-  <item>
     <title>ICYMI: Halloween Spooktacular and some tech news too</title>
     <link>http://www.engadget.com/2015/10/31/icymi-halloween-spooktacular-and-some-tech-news-too/</link>
     <pubDate>Sat, 31 Oct 2015 09:00:00 -0400</pubDate>
   </item>
   <item>
-    <title>Purely Functional Data Structures (1996) [pdf]</title>
-    <link>https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf</link>
-    <pubDate>Sun, 1 Nov 2015 14:30:42 +0000</pubDate>
-  </item>
-  <item>
     <title>This DIY Wireless Keylogger Fits Anywhere, Looks Like a Wall Charger</title>
     <link>http://lifehacker.com/this-diy-wireless-keylogger-fits-anywhere-looks-like-a-1739266989</link>
     <pubDate>Fri, 30 Oct 2015 20:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Purely Functional Data Structures (1996) [pdf]</title>
+    <link>https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf</link>
+    <pubDate>Sun, 1 Nov 2015 14:30:42 +0000</pubDate>
   </item>
   <item>
     <title>Swift Intermediate Language: LLVM conference slides [pdf]</title>
@@ -442,14 +442,14 @@
     <pubDate>Fri, 30 Oct 2015 20:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Amazon is shutting down its daily deals site, Amazon Local. </title>
-    <link>http://lifehacker.com/amazon-is-shutting-down-its-daily-deals-site-amazon-lo-1739678068</link>
-    <pubDate>Fri, 30 Oct 2015 19:04:07 GMT</pubDate>
-  </item>
-  <item>
     <title>Ruby Tricks</title>
     <link>https://github.com/franzejr/ruby-tricks</link>
     <pubDate>Sun, 1 Nov 2015 01:52:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazon is shutting down its daily deals site, Amazon Local. </title>
+    <link>http://lifehacker.com/amazon-is-shutting-down-its-daily-deals-site-amazon-lo-1739678068</link>
+    <pubDate>Fri, 30 Oct 2015 19:04:07 GMT</pubDate>
   </item>
   <item>
     <title>Jalopnik The Ten Scariest Cars Ever Built | Gawker A Brief History of Evil Children in Horror Movies</title>
@@ -467,14 +467,14 @@
     <pubDate>Sat, 31 Oct 2015 17:32:58 +0000</pubDate>
   </item>
   <item>
-    <title>Confessions of a Right-Wing Liberal (1968)</title>
-    <link>https://mises.org/library/confessions-right-wing-liberal</link>
-    <pubDate>Sat, 31 Oct 2015 17:03:15 +0000</pubDate>
-  </item>
-  <item>
     <title>Yolk.js: A user interface library built on RxJS and Virtual-dom</title>
     <link>https://github.com/yolkjs/yolk</link>
     <pubDate>Sat, 31 Oct 2015 17:48:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>Confessions of a Right-Wing Liberal (1968)</title>
+    <link>https://mises.org/library/confessions-right-wing-liberal</link>
+    <pubDate>Sat, 31 Oct 2015 17:03:15 +0000</pubDate>
   </item>
   <item>
     <title>Curio: A Modern Library for Reliable Concurrent I/O Using Python Coroutines</title>
