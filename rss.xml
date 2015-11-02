@@ -2,6 +2,11 @@
 
 <channel>
   <item>
+    <title>Russia and the Curse of Geography</title>
+    <link>http://www.theatlantic.com/international/archive/2015/10/russia-geography-ukraine-syria/413248/?single_page=true</link>
+    <pubDate>Sun, 1 Nov 2015 20:47:07 +0000</pubDate>
+  </item>
+  <item>
     <title>NASA Study: Mass Gains of Antarctic Ice Sheet Greater Than Losses</title>
     <link>http://www.nasa.gov/feature/goddard/nasa-study-mass-gains-of-antarctic-ice-sheet-greater-than-losses</link>
     <pubDate>Sun, 1 Nov 2015 19:14:57 +0000</pubDate>
@@ -12,14 +17,24 @@
     <pubDate>Sun, 1 Nov 2015 20:21:33 +0000</pubDate>
   </item>
   <item>
-    <title>Watch The Inspiring Movie ‘CODEGIRL’ For Free On YouTube Until November 5th</title>
-    <link>http://techcrunch.com/2015/11/01/watch-the-inspiring-movie-codegirl-for-free-until-november-5th/?ncid=rss</link>
-    <pubDate>Sun, 01 Nov 2015 21:35:41 +0000</pubDate>
+    <title>Warner Bros. offers refunds for 'Batman: Arkham Knight' on PC</title>
+    <link>http://www.engadget.com/2015/11/01/warner-bros-offers-refunds-for-batman-arkham-knight-on-pc/</link>
+    <pubDate>Sun, 01 Nov 2015 17:45:00 -0500</pubDate>
   </item>
   <item>
     <title>The two faces of Airbnb</title>
     <link>http://www.businessinsider.com/the-two-faces-of-airbnb-2015-10</link>
     <pubDate>Sun, 1 Nov 2015 18:22:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>Watch The Inspiring Movie ‘CODEGIRL’ For Free On YouTube Until November 5th</title>
+    <link>http://techcrunch.com/2015/11/01/watch-the-inspiring-movie-codegirl-for-free-until-november-5th/?ncid=rss</link>
+    <pubDate>Sun, 01 Nov 2015 21:35:41 +0000</pubDate>
+  </item>
+  <item>
+    <title>Social Status: Down the Rabbit Hole</title>
+    <link>http://www.meltingasphalt.com/social-status-down-the-rabbit-hole/</link>
+    <pubDate>Sun, 1 Nov 2015 23:14:11 +0000</pubDate>
   </item>
   <item>
     <title>Home Services Startup Porch Sheds 90 Employees, Key Executives Bolt</title>
@@ -32,19 +47,9 @@
     <pubDate>Sun, 01 Nov 2015 15:54:00 -0500</pubDate>
   </item>
   <item>
-    <title>Neovim public release 0.1.0</title>
-    <link>https://github.com/neovim/neovim/releases/tag/v0.1.0</link>
-    <pubDate>Sun, 1 Nov 2015 20:48:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>WebAssembly: a binary format for the web</title>
-    <link>http://www.2ality.com/2015/06/web-assembly.html</link>
-    <pubDate>Sun, 1 Nov 2015 19:22:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>Search Engine Showdown: Google vs. Bing</title>
-    <link>http://lifehacker.com/search-engine-showdown-google-vs-bing-1739263052</link>
-    <pubDate>Sun, 1 Nov 2015 16:00:00 GMT</pubDate>
+    <title>How a group of neighbors created their own Internet service</title>
+    <link>http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/</link>
+    <pubDate>Sun, 1 Nov 2015 18:17:48 +0000</pubDate>
   </item>
   <item>
     <title>Making Insider Trading Legal</title>
@@ -52,9 +57,9 @@
     <pubDate>Sun, 1 Nov 2015 15:41:46 +0000</pubDate>
   </item>
   <item>
-    <title>How a group of neighbors created their own Internet service</title>
-    <link>http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/</link>
-    <pubDate>Sun, 1 Nov 2015 18:17:48 +0000</pubDate>
+    <title>WebAssembly: a binary format for the web</title>
+    <link>http://www.2ality.com/2015/06/web-assembly.html</link>
+    <pubDate>Sun, 1 Nov 2015 19:22:32 +0000</pubDate>
   </item>
   <item>
     <title>Instagram Launches A Curated Feed Around Events, Starting With Halloween</title>
@@ -62,9 +67,9 @@
     <pubDate>Sun, 01 Nov 2015 17:36:00 +0000</pubDate>
   </item>
   <item>
-    <title>Augmented Reality: Believe The Hype (Cycle)</title>
-    <link>http://techcrunch.com/2015/11/01/augmented-reality-believe-the-hype-cycle/?ncid=rss</link>
-    <pubDate>Sun, 01 Nov 2015 20:00:16 +0000</pubDate>
+    <title>Neovim public release 0.1.0</title>
+    <link>https://github.com/neovim/neovim/releases/tag/v0.1.0</link>
+    <pubDate>Sun, 1 Nov 2015 20:48:08 +0000</pubDate>
   </item>
   <item>
     <title>You might not have to update next-gen antivirus software</title>
@@ -72,9 +77,14 @@
     <pubDate>Sun, 01 Nov 2015 12:20:00 -0500</pubDate>
   </item>
   <item>
-    <title>Checkr (YC S14) is hiring Full Stack Hackers to build the future of online trust</title>
-    <link>http://grnh.se/m0spnl</link>
-    <pubDate>Sun, 1 Nov 2015 22:20:13 +0000</pubDate>
+    <title>Augmented Reality: Believe The Hype (Cycle)</title>
+    <link>http://techcrunch.com/2015/11/01/augmented-reality-believe-the-hype-cycle/?ncid=rss</link>
+    <pubDate>Sun, 01 Nov 2015 20:00:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>Search Engine Showdown: Google vs. Bing</title>
+    <link>http://lifehacker.com/search-engine-showdown-google-vs-bing-1739263052</link>
+    <pubDate>Sun, 1 Nov 2015 16:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Sunday's Best Deals: Pebble Time, Calvin Klein, Breaking Bad, and More</title>
@@ -97,9 +107,14 @@
     <pubDate>Sun, 01 Nov 2015 18:07:10 +0000</pubDate>
   </item>
   <item>
-    <title>WorkDifferent Is a New Job Site Dedicated to Companies that Care About Employees</title>
-    <link>http://lifehacker.com/workdifferent-is-a-new-job-site-dedicated-to-companies-1739237674</link>
-    <pubDate>Sun, 1 Nov 2015 15:00:00 GMT</pubDate>
+    <title>Why universities should offer a programming interview prep elective course</title>
+    <link>http://pgbovine.net/programming-interview-class.htm</link>
+    <pubDate>Sun, 1 Nov 2015 23:21:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>The Best Pros Won’t Work For You, But You Can Still Engage Them</title>
+    <link>http://techcrunch.com/2015/10/31/the-best-pros-wont-work-for-you-but-you-can-still-engage-them/?ncid=rss</link>
+    <pubDate>Sun, 01 Nov 2015 03:00:39 +0000</pubDate>
   </item>
   <item>
     <title>Disney Research has a faster way to render realistic fabrics</title>
@@ -107,9 +122,9 @@
     <pubDate>Sun, 01 Nov 2015 10:00:00 -0500</pubDate>
   </item>
   <item>
-    <title>The Best Pros Won’t Work For You, But You Can Still Engage Them</title>
-    <link>http://techcrunch.com/2015/10/31/the-best-pros-wont-work-for-you-but-you-can-still-engage-them/?ncid=rss</link>
-    <pubDate>Sun, 01 Nov 2015 03:00:39 +0000</pubDate>
+    <title>WorkDifferent Is a New Job Site Dedicated to Companies that Care About Employees</title>
+    <link>http://lifehacker.com/workdifferent-is-a-new-job-site-dedicated-to-companies-1739237674</link>
+    <pubDate>Sun, 1 Nov 2015 15:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Inhabitat's Week in Green: Concept cars and betting big on solar</title>
@@ -122,9 +137,9 @@
     <pubDate>Sun, 01 Nov 2015 11:00:00 -0500</pubDate>
   </item>
   <item>
-    <title>The Dunkin' Donuts franchise kings (2014)</title>
-    <link>http://www.bostonglobe.com/magazine/2014/09/17/the-secret-world-dunkin-donuts-franchise-kings/pb2UmxauJrZv08wcBig6CO/story.html</link>
-    <pubDate>Sun, 1 Nov 2015 01:09:29 +0000</pubDate>
+    <title>Study answers lingering questions about Voyager 1 in interstellar space</title>
+    <link>http://www.engadget.com/2015/10/31/study-answers-lingering-questions-about-voyager-1-in-interstella/</link>
+    <pubDate>Sat, 31 Oct 2015 19:40:00 -0400</pubDate>
   </item>
   <item>
     <title>Please don't use Slack for FOSS projects</title>
@@ -132,14 +147,14 @@
     <pubDate>Sun, 1 Nov 2015 14:57:15 +0000</pubDate>
   </item>
   <item>
-    <title>Study answers lingering questions about Voyager 1 in interstellar space</title>
-    <link>http://www.engadget.com/2015/10/31/study-answers-lingering-questions-about-voyager-1-in-interstella/</link>
-    <pubDate>Sat, 31 Oct 2015 19:40:00 -0400</pubDate>
-  </item>
-  <item>
     <title>What Startups Need To Know About The Safe Harbor Ruling In Europe</title>
     <link>http://techcrunch.com/2015/10/31/what-startups-need-to-know-about-the-safe-harbor-ruling-in-europe/?ncid=rss</link>
     <pubDate>Sun, 01 Nov 2015 06:00:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>Learning to Read, Again (2013)</title>
+    <link>http://fredgibbs.net/posts/post/text%20mining/learning-to-read-again/</link>
+    <pubDate>Sun, 1 Nov 2015 22:41:42 +0000</pubDate>
   </item>
   <item>
     <title>A month with Nest's latest smart thermostat</title>
@@ -150,6 +165,11 @@
     <title>Stitch Is A Social Network For Seniors</title>
     <link>http://techcrunch.com/2015/10/31/stitch-is-a-social-network-for-seniors/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 23:56:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Checkr (YC S14) is hiring Full Stack Hackers to build the future of online trust</title>
+    <link>http://grnh.se/m0spnl</link>
+    <pubDate>Sun, 1 Nov 2015 22:20:13 +0000</pubDate>
   </item>
   <item>
     <title>How Amazon took control of the cloud</title>
@@ -177,11 +197,6 @@
     <pubDate>Sat, 31 Oct 2015 06:18:00 -0400</pubDate>
   </item>
   <item>
-    <title>Leading 'anti adblock' provider gets hacked- pushed malware to end users</title>
-    <link>http://blog.pagefair.com/2015/halloween-security-breach/</link>
-    <pubDate>Sun, 1 Nov 2015 21:44:01 +0000</pubDate>
-  </item>
-  <item>
     <title>Can Civil Comments Kill The Internet Troll?</title>
     <link>http://techcrunch.com/2015/10/31/can-civil-comments-kill-internet-trolls/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 17:00:23 +0000</pubDate>
@@ -192,14 +207,19 @@
     <pubDate>Sat, 31 Oct 2015 17:00:00 -0400</pubDate>
   </item>
   <item>
+    <title>Elasticsearch end-of-life in Debian Stable</title>
+    <link>https://lists.debian.org/debian-security-announce/2015/msg00290.html</link>
+    <pubDate>Sun, 1 Nov 2015 23:08:41 +0000</pubDate>
+  </item>
+  <item>
+    <title>Leading 'anti adblock' provider gets hacked- pushed malware to end users</title>
+    <link>http://blog.pagefair.com/2015/halloween-security-breach/</link>
+    <pubDate>Sun, 1 Nov 2015 21:44:01 +0000</pubDate>
+  </item>
+  <item>
     <title>DJI Osmo review: A hand-held stabilized camera worthy of its price</title>
     <link>http://www.engadget.com/2015/10/31/dji-osmo-review/</link>
     <pubDate>Sat, 31 Oct 2015 14:01:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>Liquid Bitcoin</title>
-    <link>http://techcrunch.com/2015/10/31/liquid-bitcoin/?ncid=rss</link>
-    <pubDate>Sat, 31 Oct 2015 13:00:49 +0000</pubDate>
   </item>
   <item>
     <title>Nuka-Cola Quantum available in time for 'Fallout 4'</title>
@@ -207,9 +227,9 @@
     <pubDate>Sat, 31 Oct 2015 11:26:00 -0400</pubDate>
   </item>
   <item>
-    <title>An Exact Algorithm for Finding Minimum Oriented Bounding Boxes [pdf]</title>
-    <link>http://clb.demon.fi/minobb/minobb_jylanki_2015_06_01.pdf</link>
-    <pubDate>Sun, 1 Nov 2015 21:09:29 +0000</pubDate>
+    <title>Liquid Bitcoin</title>
+    <link>http://techcrunch.com/2015/10/31/liquid-bitcoin/?ncid=rss</link>
+    <pubDate>Sat, 31 Oct 2015 13:00:49 +0000</pubDate>
   </item>
   <item>
     <title>Medicine-covered nanoparticles could help stroke victims</title>
@@ -232,19 +252,14 @@
     <pubDate>Sat, 31 Oct 2015 19:00:53 +0000</pubDate>
   </item>
   <item>
-    <title>PalDB: An embeddable write-once key-value store written in Java</title>
-    <link>https://github.com/linkedin/PalDB</link>
-    <pubDate>Sun, 1 Nov 2015 20:36:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tatto-like Skin sensors could improve elderly, community, prenatal health</title>
-    <link>http://mitsloan.mit.edu/newsroom/articles/skin-sensors-could-improve-elderly-community-prenatal-health/?utm_source=mitsloantwitter&amp;utm_medium=social&amp;utm_campaign=skinsensor</link>
-    <pubDate>Sun, 1 Nov 2015 19:23:04 +0000</pubDate>
-  </item>
-  <item>
     <title>Cassini gets cozy with Saturn's moon, flies 30 miles above its surface</title>
     <link>http://www.engadget.com/2015/10/31/cassini-enceladus-second-flyby/</link>
     <pubDate>Sat, 31 Oct 2015 09:33:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>An Exact Algorithm for Finding Minimum Oriented Bounding Boxes [pdf]</title>
+    <link>http://clb.demon.fi/minobb/minobb_jylanki_2015_06_01.pdf</link>
+    <pubDate>Sun, 1 Nov 2015 21:09:29 +0000</pubDate>
   </item>
   <item>
     <title>Life with my robot secretary</title>
@@ -257,14 +272,14 @@
     <pubDate>Sat, 31 Oct 2015 18:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>My Livecoding.tv account deletion saga</title>
-    <link>http://liza.io/my-livecoding-dot-tv-account-deletion-saga/</link>
-    <pubDate>Sun, 1 Nov 2015 14:29:12 +0000</pubDate>
-  </item>
-  <item>
     <title>Hacking Team offers encryption breaking tools to law enforcement</title>
     <link>http://www.engadget.com/2015/10/30/hacking-team-offers-encryption-breaking-tools-to-law-enforcement/</link>
     <pubDate>Fri, 30 Oct 2015 20:29:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>My Livecoding.tv account deletion saga</title>
+    <link>http://liza.io/my-livecoding-dot-tv-account-deletion-saga/</link>
+    <pubDate>Sun, 1 Nov 2015 14:29:12 +0000</pubDate>
   </item>
   <item>
     <title>Amazon to deliver 'Call of Duty' at midnight on release day in 20 cities</title>
@@ -272,19 +287,14 @@
     <pubDate>Fri, 30 Oct 2015 19:43:00 -0400</pubDate>
   </item>
   <item>
+    <title>Tatto-like Skin sensors could improve elderly, community, prenatal health</title>
+    <link>http://mitsloan.mit.edu/newsroom/articles/skin-sensors-could-improve-elderly-community-prenatal-health/?utm_source=mitsloantwitter&amp;utm_medium=social&amp;utm_campaign=skinsensor</link>
+    <pubDate>Sun, 1 Nov 2015 19:23:04 +0000</pubDate>
+  </item>
+  <item>
     <title>​Uber shuts down in three German cities amid driver shortage</title>
     <link>http://www.engadget.com/2015/10/30/uber-shuts-down-in-three-german-cities-amid-driver-shortage/</link>
     <pubDate>Fri, 30 Oct 2015 23:14:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>Saturday's Best Deals: UE Mini Boom, Cheap Slippers, Lightning Cables, and More</title>
-    <link>http://deals.kinja.com/saturdays-best-deals-ue-mini-boom-cheap-slippers-lig-1739792665</link>
-    <pubDate>Sat, 31 Oct 2015 14:47:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Checking In On Windows 10</title>
-    <link>http://techcrunch.com/2015/10/31/checking-in-on-windows-10-2/?ncid=rss</link>
-    <pubDate>Sat, 31 Oct 2015 18:44:25 +0000</pubDate>
   </item>
   <item>
     <title>A Look At Who’s Down From Google</title>
@@ -292,9 +302,14 @@
     <pubDate>Sat, 31 Oct 2015 02:13:06 +0000</pubDate>
   </item>
   <item>
-    <title>More Apple Car Thoughts: Software Culture</title>
-    <link>http://www.mondaynote.com/2015/11/01/more-apple-car-thoughts-software-culture/</link>
-    <pubDate>Sun, 1 Nov 2015 18:56:21 +0000</pubDate>
+    <title>Checking In On Windows 10</title>
+    <link>http://techcrunch.com/2015/10/31/checking-in-on-windows-10-2/?ncid=rss</link>
+    <pubDate>Sat, 31 Oct 2015 18:44:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>Saturday's Best Deals: UE Mini Boom, Cheap Slippers, Lightning Cables, and More</title>
+    <link>http://deals.kinja.com/saturdays-best-deals-ue-mini-boom-cheap-slippers-lig-1739792665</link>
+    <pubDate>Sat, 31 Oct 2015 14:47:25 GMT</pubDate>
   </item>
   <item>
     <title>National U.S. Privacy Laws Are Needed</title>
@@ -307,14 +322,14 @@
     <pubDate>Sat, 31 Oct 2015 18:15:06 +0000</pubDate>
   </item>
   <item>
-    <title>Stingray phone surveillance tools can also record your calls</title>
-    <link>http://www.engadget.com/2015/10/30/stingray-voice-calls/</link>
-    <pubDate>Fri, 30 Oct 2015 18:24:00 -0400</pubDate>
-  </item>
-  <item>
     <title>Protect Yo-self: 9 Ways To See If A Company Has Your Best Interests at Heart</title>
     <link>http://techcrunch.com/gallery/protect-yo-self-9-ways-to-see-if-a-company-has-your-best-interests-at-heart/?ncid=rss</link>
     <pubDate>Sat, 31 Oct 2015 01:30:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>How to Manipulate Your Kids into Doing What You Want</title>
+    <link>http://lifehacker.com/how-to-manipulate-kids-into-doing-what-you-want-1455891399</link>
+    <pubDate>Fri, 30 Oct 2015 21:00:00 GMT</pubDate>
   </item>
   <item>
     <title>HTML5 games: 3D collision detection</title>
@@ -327,14 +342,19 @@
     <pubDate>Sat, 31 Oct 2015 23:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>How to Manipulate Your Kids into Doing What You Want</title>
-    <link>http://lifehacker.com/how-to-manipulate-kids-into-doing-what-you-want-1455891399</link>
-    <pubDate>Fri, 30 Oct 2015 21:00:00 GMT</pubDate>
-  </item>
-  <item>
     <title>Recommended Reading: Who are the best horror movie monsters?</title>
     <link>http://www.engadget.com/2015/10/31/recommended-reading-10-31-15/</link>
     <pubDate>Sat, 31 Oct 2015 10:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>More Apple Car Thoughts: Software Culture</title>
+    <link>http://www.mondaynote.com/2015/11/01/more-apple-car-thoughts-software-culture/</link>
+    <pubDate>Sun, 1 Nov 2015 18:56:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>Congress pushes deadline to make trains safer to 2018</title>
+    <link>http://www.engadget.com/2015/10/30/congress-train-ptc/</link>
+    <pubDate>Fri, 30 Oct 2015 19:09:00 -0400</pubDate>
   </item>
   <item>
     <title>Top 10 Evil Ways to Use Technology</title>
@@ -345,11 +365,6 @@
     <title>Run Split View and Picture In Picture at the Same Time on the iPad</title>
     <link>http://lifehacker.com/run-split-view-and-picture-in-picture-at-the-same-time-1739424018</link>
     <pubDate>Sat, 31 Oct 2015 21:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Congress pushes deadline to make trains safer to 2018</title>
-    <link>http://www.engadget.com/2015/10/30/congress-train-ptc/</link>
-    <pubDate>Fri, 30 Oct 2015 19:09:00 -0400</pubDate>
   </item>
   <item>
     <title>Reel Scary Helps You Find the Perfect Scary Movie</title>
@@ -387,6 +402,11 @@
     <pubDate>Sat, 31 Oct 2015 20:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>ICYMI: Halloween Spooktacular and some tech news too</title>
+    <link>http://www.engadget.com/2015/10/31/icymi-halloween-spooktacular-and-some-tech-news-too/</link>
+    <pubDate>Sat, 31 Oct 2015 09:00:00 -0400</pubDate>
+  </item>
+  <item>
     <title>Your own Debian Mail Server (part II): how to prove you are not a spammer</title>
     <link>https://scaron.info/blog/debian-mail-spf-dkim.html</link>
     <pubDate>Sun, 1 Nov 2015 10:51:58 +0000</pubDate>
@@ -397,29 +417,19 @@
     <pubDate>Sun, 1 Nov 2015 12:11:04 +0000</pubDate>
   </item>
   <item>
-    <title>ICYMI: Halloween Spooktacular and some tech news too</title>
-    <link>http://www.engadget.com/2015/10/31/icymi-halloween-spooktacular-and-some-tech-news-too/</link>
-    <pubDate>Sat, 31 Oct 2015 09:00:00 -0400</pubDate>
-  </item>
-  <item>
     <title>This DIY Wireless Keylogger Fits Anywhere, Looks Like a Wall Charger</title>
     <link>http://lifehacker.com/this-diy-wireless-keylogger-fits-anywhere-looks-like-a-1739266989</link>
     <pubDate>Fri, 30 Oct 2015 20:30:00 GMT</pubDate>
   </item>
   <item>
-    <title>Purely Functional Data Structures (1996) [pdf]</title>
-    <link>https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf</link>
-    <pubDate>Sun, 1 Nov 2015 14:30:42 +0000</pubDate>
+    <title>How To Survive An Office Meeting</title>
+    <link>http://adequateman.deadspin.com/how-to-survive-an-office-meeting-1736772547</link>
+    <pubDate>Fri, 30 Oct 2015 21:49:00 GMT</pubDate>
   </item>
   <item>
     <title>Swift Intermediate Language: LLVM conference slides [pdf]</title>
     <link>http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf</link>
     <pubDate>Sun, 1 Nov 2015 04:24:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>How To Survive An Office Meeting</title>
-    <link>http://adequateman.deadspin.com/how-to-survive-an-office-meeting-1736772547</link>
-    <pubDate>Fri, 30 Oct 2015 21:49:00 GMT</pubDate>
   </item>
   <item>
     <title>Apache Singa, a Distributed Deep Learning Platform</title>
@@ -442,14 +452,14 @@
     <pubDate>Fri, 30 Oct 2015 20:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Ruby Tricks</title>
-    <link>https://github.com/franzejr/ruby-tricks</link>
-    <pubDate>Sun, 1 Nov 2015 01:52:26 +0000</pubDate>
+    <title>Show HN: TouchScale.co, weigh things in Safari on iPhone 6S</title>
+    <link>http://www.touchscale.co</link>
+    <pubDate>Sun, 1 Nov 2015 22:20:59 +0000</pubDate>
   </item>
   <item>
-    <title>Amazon is shutting down its daily deals site, Amazon Local. </title>
-    <link>http://lifehacker.com/amazon-is-shutting-down-its-daily-deals-site-amazon-lo-1739678068</link>
-    <pubDate>Fri, 30 Oct 2015 19:04:07 GMT</pubDate>
+    <title>Executing Software Engineers for Bugs</title>
+    <link>https://blog.setec.io/2015/11/01/ethics.html</link>
+    <pubDate>Sun, 1 Nov 2015 23:31:59 +0000</pubDate>
   </item>
   <item>
     <title>Jalopnik The Ten Scariest Cars Ever Built | Gawker A Brief History of Evil Children in Horror Movies</title>
@@ -457,24 +467,9 @@
     <pubDate>Fri, 30 Oct 2015 20:15:46 GMT</pubDate>
   </item>
   <item>
-    <title>Anti-Caching: A New Approach to Database Management System Architecture [pdf]</title>
-    <link>http://www.vldb.org/pvldb/vol6/p1942-debrabant.pdf</link>
-    <pubDate>Sat, 31 Oct 2015 22:54:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>MCG: Visual Functional Programming</title>
-    <link>http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming</link>
-    <pubDate>Sat, 31 Oct 2015 17:32:58 +0000</pubDate>
-  </item>
-  <item>
     <title>Yolk.js: A user interface library built on RxJS and Virtual-dom</title>
     <link>https://github.com/yolkjs/yolk</link>
     <pubDate>Sat, 31 Oct 2015 17:48:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>Confessions of a Right-Wing Liberal (1968)</title>
-    <link>https://mises.org/library/confessions-right-wing-liberal</link>
-    <pubDate>Sat, 31 Oct 2015 17:03:15 +0000</pubDate>
   </item>
   <item>
     <title>Curio: A Modern Library for Reliable Concurrent I/O Using Python Coroutines</title>
@@ -482,9 +477,14 @@
     <pubDate>Sat, 31 Oct 2015 16:57:10 +0000</pubDate>
   </item>
   <item>
-    <title>Refal programming language</title>
-    <link>https://en.wikipedia.org/wiki/Refal</link>
-    <pubDate>Sun, 1 Nov 2015 01:21:15 +0000</pubDate>
+    <title>Why Women Compete with Each Other</title>
+    <link>http://www.nytimes.com/2015/11/01/opinion/sunday/why-women-compete-with-each-other.html?action=click&amp;module=TrendingStory&amp;region=TrendingTop&amp;pgtype=collection&amp;_r=0</link>
+    <pubDate>Sun, 1 Nov 2015 23:23:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>Duck Is an FTP Client Based on Cyberduck Built for the Command Line</title>
+    <link>http://lifehacker.com/duck-is-an-ftp-client-based-on-cyberduck-built-for-the-1739438121</link>
+    <pubDate>Sun, 1 Nov 2015 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>BroadwayHD Is a Streaming Service for Broadway Shows</title>
