@@ -1,604 +1,766 @@
 <?xml version="1.0"?>
 
-<channel>
-  <item>
-    <title>Google Ventures 2015 Year in Review</title>
-    <link>https://library.gv.com/gv-2015-year-in-review-5a6b61e37b5b#.kjw8bj99c</link>
-    <pubDate>Sat, 19 Dec 2015 15:26:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>Fairphone 2: world's first modular phone goes on sale</title>
-    <link>http://www.bbc.co.uk/news/technology-34982724</link>
-    <pubDate>Sat, 19 Dec 2015 14:02:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>Post-Apocalyptic Thomas the Tank Engine Hack</title>
-    <link>http://www.spoon-tamago.com/2015/12/17/post-apocalyptic-thomas-the-tank-engine-hack/</link>
-    <pubDate>Sat, 19 Dec 2015 14:52:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Obama Signs $1.8 Trillion Tax and Spending and CISA Bill into Law</title>
-    <link>http://www.npr.org/sections/thetwo-way/2015/12/18/460281572/congress-sends-1-8-trillion-tax-and-spending-bill-to-president-obama</link>
-    <pubDate>Sat, 19 Dec 2015 12:53:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>Having Success With Code Bootcamps: Where To Work As A Bootcamp Grad</title>
-    <link>http://techcrunch.com/2015/12/19/having-success-with-code-bootcamps-where-to-work-as-a-bootcamp-grad/?ncid=rss</link>
-    <pubDate>Sat, 19 Dec 2015 16:00:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>25th Anniversary of Gene Spafford's “Practical Unix Security”</title>
-    <link>https://www.cerias.purdue.edu/site/blog/post/a_looming_anniversary_and_a_special_offer/</link>
-    <pubDate>Sat, 19 Dec 2015 15:06:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>Log into most any Linux system by hitting backspace 28 times</title>
-    <link>http://www.engadget.com/2015/12/18/log-into-most-any-linux-system-by-hitting-backspace-28-times/</link>
-    <pubDate>Fri, 18 Dec 2015 17:26:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>SpaceX is on target for a launch-and-land attempt Sunday</title>
-    <link>http://www.engadget.com/2015/12/18/spacex-falcon9-launch/</link>
-    <pubDate>Fri, 18 Dec 2015 20:13:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Budget bill heads to President Obama's desk with CISA intact</title>
-    <link>http://www.engadget.com/2015/12/18/house-senate-pass-budget-with-cisa/</link>
-    <pubDate>Fri, 18 Dec 2015 12:45:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Amazon renews 'The Man in the High Castle' for a second season</title>
-    <link>http://www.engadget.com/2015/12/18/amazon-the-man-in-the-high-castle-season-two/</link>
-    <pubDate>Fri, 18 Dec 2015 14:41:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Detect and disconnect WiFi cameras in that AirBnB you’re staying in</title>
-    <link>http://julianoliver.com/output/log_2015-12-18_14-39</link>
-    <pubDate>Sat, 19 Dec 2015 15:07:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>The best icon is a text label</title>
-    <link>http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label</link>
-    <pubDate>Fri, 18 Dec 2015 10:59:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>Secret Code Found in Juniper's Firewalls Shows Risk of Government Backdoors</title>
-    <link>http://www.wired.com/2015/12/juniper-networks-hidden-backdoors-show-the-risk-of-government-backdoors/</link>
-    <pubDate>Sat, 19 Dec 2015 07:17:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>Thepiratebay.com domain has been suspended</title>
-    <link>http://thepiratebay.com/</link>
-    <pubDate>Sat, 19 Dec 2015 03:02:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>Recommended Reading: The harsh realities of internet fame</title>
-    <link>http://www.engadget.com/2015/12/19/recommended-reading-12-19-15/</link>
-    <pubDate>Sat, 19 Dec 2015 10:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Insider allegedly hacked lottery software in multiple states</title>
-    <link>http://www.engadget.com/2015/12/19/lotto-hack/</link>
-    <pubDate>Sat, 19 Dec 2015 06:07:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>The Kopimashin</title>
-    <link>http://konsthack.se/portfolio/kh000-kopimashin/</link>
-    <pubDate>Sat, 19 Dec 2015 13:49:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>Google Cloud Shell – Free until end of 2016</title>
-    <link>https://cloud.google.com/cloud-shell/docs/</link>
-    <pubDate>Sat, 19 Dec 2015 15:29:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>The Power of Mozilla</title>
-    <link>https://blog.mozilla.org/blog/2015/12/08/the-power-of-mozilla/</link>
-    <pubDate>Sat, 19 Dec 2015 14:13:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>Blockly is a library for building visual programming editors</title>
-    <link>https://developers.google.com/blockly/</link>
-    <pubDate>Sat, 19 Dec 2015 08:47:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>Elon Musk Has Some Thoughts on VW's Punishment</title>
-    <link>http://www.huffingtonpost.com/entry/elon-musk-volkswagen-emissions-scandal_5674686de4b014efe0d56bba</link>
-    <pubDate>Sat, 19 Dec 2015 12:39:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ICYMI: Helmet with OnStar, NASA's 3D-printed engine and more</title>
-    <link>http://www.engadget.com/2015/12/19/icymi-helmet-with-onstar-nasa-s-3d-printed-engine-and-more/</link>
-    <pubDate>Sat, 19 Dec 2015 09:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Technology And The Deep State</title>
-    <link>http://techcrunch.com/2015/12/19/technology-and-the-deep-state/?ncid=rss</link>
-    <pubDate>Sat, 19 Dec 2015 14:00:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>LifeLock ID protection service to pay record $100 million for failing customers</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c508e15/sc/28/l/0Larstechnica0N0Ctech0Epolicy0C20A150C120Clifelock0Eid0Eprotection0Eservice0Eto0Epay0Erecord0E10A0A0Emillion0Efor0Efailing0Ecustomers0C/story01.htm</link>
-    <pubDate>Thu, 17 Dec 2015 21:42:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Lunar Orbiter captures the Earth rising from the moon's horizon</title>
-    <link>http://www.engadget.com/2015/12/18/lunar-orbiter-earthrise/</link>
-    <pubDate>Fri, 18 Dec 2015 22:43:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>CNN: FBI is investigating the Juniper Networks security hole</title>
-    <link>http://www.engadget.com/2015/12/18/cnn-fbi-is-investigating-the-juniper-networks-security-hole/</link>
-    <pubDate>Fri, 18 Dec 2015 23:55:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Microsoft Acquires Big Data Startup Metanautix</title>
-    <link>http://techcrunch.com/2015/12/18/microsoft-acquires-big-data-startup-metanautix/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 18:49:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>Martin Shkreli steps down as CEO of Turing Pharmaceuticals</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c56ba2d/sc/13/l/0Larstechnica0N0Ctech0Epolicy0C20A150C120Cmartin0Eshkreli0Esteps0Edown0Eas0Eceo0Eof0Eturing0Epharmaceuticals0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 19:28:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Extroverts Rejoice! Now Facebook Finds You Parties</title>
-    <link>http://techcrunch.com/2015/12/18/facebook-event-suggestions/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 21:48:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>Congress approves surveillance legislation tucked into budget package</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c566794/sc/7/l/0Larstechnica0N0Ctech0Epolicy0C20A150C120Ccongress0Eapproves0Esurveillance0Elegislation0Etucked0Einto0Ebudget0Epackage0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 18:45:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>“Unauthorized code” in Juniper firewalls decrypts encrypted VPN traffic</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c50d4fa/sc/21/l/0Larstechnica0N0Csecurity0C20A150C120Cunauthorized0Ecode0Ein0Ejuniper0Efirewalls0Edecrypts0Eencrypted0Evpn0Etraffic0C/story01.htm</link>
-    <pubDate>Thu, 17 Dec 2015 23:50:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>The myth of Mariana's Web, the darkest corner of the internet</title>
-    <link>http://www.engadget.com/2015/12/18/the-myth-of-marianas-web-the-darkest-corner-of-the-internet/</link>
-    <pubDate>Fri, 18 Dec 2015 15:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>The Chan-Zuckerberg Initiative May Be More Important Than Facebook</title>
-    <link>http://techcrunch.com/2015/12/18/the-chan-zuckerberg-initiative-may-be-more-important-than-facebook/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 17:36:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple is being sued over another data-gobbling bug</title>
-    <link>http://www.engadget.com/2015/12/18/apple-is-being-sued-over-another-data-gobbling-bug/</link>
-    <pubDate>Fri, 18 Dec 2015 13:41:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Box Marketing SVP Whitney Bouck Announces She Is Moving On</title>
-    <link>http://techcrunch.com/2015/12/18/box-marketing-svp-whitney-bouck-announces-she-is-moving-on/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 17:50:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>Demoralize Your Teams Quickly and Efficiently with Micromanagement (2010)</title>
-    <link>http://www.stellman-greene.com/2010/11/29/demoralize-your-teams-quickly-and-efficiently-with-micromanagement/</link>
-    <pubDate>Sat, 19 Dec 2015 05:26:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>Netflix DIY smart socks can stop your binge-watching when you fall asleep</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c54e10b/sc/28/l/0Larstechnica0N0Cgadgets0C20A150C120Cbuild0Eyour0Eown0Enetflix0Esocks0Ethat0Edetect0Ewhen0Eyou0Efall0Easleep0Eduring0Ebinge0Etv0Ewatching0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 13:45:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>FAA confirms that drone registry info will be public record</title>
-    <link>http://www.engadget.com/2015/12/18/faa-confirms-that-drone-registry-info-will-be-public-record/</link>
-    <pubDate>Fri, 18 Dec 2015 20:49:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Amazon is reportedly leasing jets to power shipping network</title>
-    <link>http://www.engadget.com/2015/12/18/amazon-leasing-airplanes-shipping/</link>
-    <pubDate>Fri, 18 Dec 2015 17:02:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>U.S. Department Of Justice Is Reportedly Pursuing Criminal Investigation Of Uber Data Breach</title>
-    <link>http://techcrunch.com/2015/12/18/u-s-department-of-justice-is-reportedly-pursuing-criminal-investigation-of-uber-data-breach/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 21:00:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>The best pico projector</title>
-    <link>http://www.engadget.com/2015/12/18/the-best-pico-projector/</link>
-    <pubDate>Fri, 18 Dec 2015 12:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>An AI that can mimic any artist: Neural Style in TensorFlow</title>
-    <link>http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/</link>
-    <pubDate>Sat, 19 Dec 2015 14:33:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>Find Out How Much Your Original Star Wars Collectibles Are Worth</title>
-    <link>http://lifehacker.com/find-out-how-much-your-original-star-wars-collectibles-1748612301</link>
-    <pubDate>Fri, 18 Dec 2015 15:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>DotDashPay Wins $250,000 Startup Competition At UC Berkeley</title>
-    <link>http://techcrunch.com/2015/12/18/dotdashpay-wins-250000-startup-competition-at-uc-berkeley/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 17:59:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>HTC Vive to demo a 'very big' breakthrough in VR at CES</title>
-    <link>http://www.engadget.com/2015/12/18/htc-vive-vr-big-breakthrough-ces/</link>
-    <pubDate>Fri, 18 Dec 2015 13:57:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Sanders campaign regains access to DNC voter info (updated)</title>
-    <link>http://www.engadget.com/2015/12/18/bernie-sanders-campaign-punished-for-accessing-clinton-data/</link>
-    <pubDate>Fri, 18 Dec 2015 13:17:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Self-Help: There’s An App For That</title>
-    <link>http://techcrunch.com/2015/12/18/self-help-there-is-an-app-for-that/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 22:00:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>Humans are smart because we sleep weird</title>
-    <link>http://www.engadget.com/2015/12/18/human-sleep-study/</link>
-    <pubDate>Fri, 18 Dec 2015 12:39:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Lost In Translation: IoT Adoption In Southeast Asia In 2015</title>
-    <link>http://techcrunch.com/2015/12/18/a-look-at-iot-adoption-in-southeast-asia-in-2015/?ncid=rss</link>
-    <pubDate>Sat, 19 Dec 2015 04:00:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>Despite hype, Nissan Leaf outsells Tesla Model S 2-to-1</title>
-    <link>http://www.engadget.com/2015/12/18/despite-hype-nissan-leaf-outsells-tesla-model-s-2-to-1/</link>
-    <pubDate>Fri, 18 Dec 2015 18:52:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Behind Abbey Road Studios’ New Incubator For Music Tech</title>
-    <link>http://techcrunch.com/2015/12/18/behind-abbey-road-studios-new-incubator-for-music-tech/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 18:02:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>Take a VR tour of the White House's Christmas splendor</title>
-    <link>http://www.engadget.com/2015/12/18/vr-tour-white-house/</link>
-    <pubDate>Fri, 18 Dec 2015 13:01:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Xbox Live pummeled by DDoS attack; hacker group claims responsibility</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c54da43/sc/13/l/0Larstechnica0N0Cgaming0C20A150C120Chacker0Egroup0Ephantom0Esquad0Etakes0Edown0Exbox0Elive0Ein0Eddos0Eattack0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 13:35:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Judge knocks Uber over latest attempt to bar drivers from class-actions</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c555c4e/sc/13/l/0Larstechnica0N0Ctech0Epolicy0C20A150C120Cjudge0Eknocks0Euber0Eover0Elatest0Eattempt0Eto0Ebar0Edrivers0Efrom0Eclass0Eactions0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 14:57:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Microsoft delays Windows 10 Mobile upgrade for older Lumias</title>
-    <link>http://www.engadget.com/2015/12/18/microsoft-windows-10-mobile-delay/</link>
-    <pubDate>Fri, 18 Dec 2015 12:20:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Five Good 3D Printers You Can Buy Before The Holiday</title>
-    <link>http://techcrunch.com/gallery/five-good-3d-printers-you-can-buy-before-the-holiday/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 19:35:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>Audi's Q7 SUV tries to make you a better driver</title>
-    <link>http://www.engadget.com/2015/12/18/audi-q7-suv/</link>
-    <pubDate>Fri, 18 Dec 2015 14:20:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Big Company vs. Startup Work and Compensation</title>
-    <link>http://danluu.com/startup-tradeoffs/</link>
-    <pubDate>Fri, 18 Dec 2015 13:25:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>11 Fantastic Gifts From Cool Hardware Startups</title>
-    <link>http://techcrunch.com/gallery/11-fantastic-gifts-from-cool-hardware-startups/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 19:08:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>Playdate: Giving away the Force</title>
-    <link>http://www.engadget.com/2015/12/18/playdate-giving-away-the-force/</link>
-    <pubDate>Fri, 18 Dec 2015 17:30:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Benedict Evans On 16 Mobile Themes To Watch Next Year</title>
-    <link>http://techcrunch.com/gallery/benedict-evans-on-16-mobile-themes-to-watch-next-year/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 16:02:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>These Robots Wish You A Holly, Jolly Period Of Cold Weather Between The End Of December And The Beginning Of January</title>
-    <link>http://techcrunch.com/2015/12/18/these-robots-wish-you-a-holly-jolly-period-of-cold-weather-between-the-end-of-december-and-the-beginning-of-january/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 18:19:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>13 TechCrunch Stories You Don’t Want To Miss This Week</title>
-    <link>http://techcrunch.com/2015/12/18/13-techcrunch-stories-you-dont-want-to-miss-this-week-26/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 18:07:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>Target May Launch Its Own Mobile Wallet Next Year</title>
-    <link>http://techcrunch.com/2015/12/18/target-may-launch-its-own-mobile-wallet-next-year/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 16:22:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>Boost and Protect Your Memory Formation by Playing 3D Video Games</title>
-    <link>http://lifehacker.com/boost-and-protect-your-memory-formation-by-playing-3d-v-1748409644</link>
-    <pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Gillmor Gang LIVE     12.18.15</title>
-    <link>http://techcrunch.com/2015/12/18/gillmor-gang-live-12-18-15/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 21:09:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>This is probably the world’s largest billboard created with MS Paint</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c54e0fc/sc/28/l/0Larstechnica0N0Cgaming0C20A150C120Cthis0Eis0Eprobably0Ethe0Eworlds0Elargest0Ems0Epaint0Ebillboard0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 13:45:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Report: DOJ opens criminal investigation of Uber data breach</title>
-    <link>http://www.engadget.com/2015/12/18/report-doj-opens-criminal-investigation-of-uber-data-breach/</link>
-    <pubDate>Fri, 18 Dec 2015 16:11:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Kindling projects</title>
-    <link>http://nedbatchelder.com/text/kindling.html</link>
-    <pubDate>Sat, 19 Dec 2015 15:35:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bernie Sanders campaign improperly accessed Clinton voter data, DNC says</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c5576bd/sc/7/l/0Larstechnica0N0Ctech0Epolicy0C20A150C120Cbernie0Esanders0Ecampaign0Eimproperly0Eaccessed0Eclinton0Evoter0Edata0Ednc0Esays0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 15:19:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to succeed with hoverboards without catching on fire</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c56a3c0/sc/21/l/0Larstechnica0N0Cgadgets0C20A150C120Chow0Eto0Esucceed0Ewith0Ehoverboards0Ewithout0Ecatching0Eon0Efire0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 20:00:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Play 'Threes' for free in your browser right now</title>
-    <link>http://www.engadget.com/2015/12/18/play-threes-for-free-in-your-browser-right-now/</link>
-    <pubDate>Fri, 18 Dec 2015 15:23:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Comcast, AT&amp;T, and T-Mobile must explain data cap exemptions to FCC</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c50bb21/sc/28/l/0Larstechnica0N0Cbusiness0C20A150C120Ccomcast0Eatt0Eand0Et0Emobile0Emust0Eexplain0Edata0Ecap0Eexemptions0Eto0Efcc0C/story01.htm</link>
-    <pubDate>Thu, 17 Dec 2015 22:37:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>This Week On The TC Gadgets Podcast: Holiday Cheers And CES Fears</title>
-    <link>http://techcrunch.com/2015/12/18/this-week-on-the-tc-gadgets-podcast-holiday-cheers-and-ces-fears/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 20:00:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>Government Succeeds in Stalling, Again–But Jewel V. NSA Goes On</title>
-    <link>https://www.eff.org/deeplinks/2015/12/government-succeeds-stalling-again-jewel-v-nsa-goes</link>
-    <pubDate>Sat, 19 Dec 2015 12:55:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lively Lets You Trim Your iPhone’s Live Photos, Pick Your Best Shot From The Video</title>
-    <link>http://techcrunch.com/2015/12/18/lively-lets-you-trim-your-iphones-live-photos-pick-your-best-shot-from-the-video/?ncid=rss</link>
-    <pubDate>Fri, 18 Dec 2015 18:11:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>"Time Is Everyone’s Most Valuable Asset, Not Just Yours"</title>
-    <link>http://lifehacker.com/time-is-everyone-s-most-valuable-asset-not-just-yours-1748408123</link>
-    <pubDate>Fri, 18 Dec 2015 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>PostgreSQL 9.5 RC1 Released</title>
-    <link>http://www.postgresql.org/about/news/1631/</link>
-    <pubDate>Sat, 19 Dec 2015 00:20:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>U.S. Justice Dept probes data breach at Uber</title>
-    <link>http://www.reuters.com/article/uber-tech-lyft-probe-exclusive-idUSKBN0U12FH20151219</link>
-    <pubDate>Sat, 19 Dec 2015 14:02:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>Most Popular Featured Bags and Workspaces of 2015</title>
-    <link>http://lifehacker.com/most-popular-featured-bags-and-workspaces-of-2015-1748342021</link>
-    <pubDate>Sat, 19 Dec 2015 01:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Find Out Which Meat Brands Feed Antibiotics to Their Animals</title>
-    <link>http://vitals.lifehacker.com/find-out-which-brands-of-meat-feed-antibiotics-to-their-1748741950</link>
-    <pubDate>Fri, 18 Dec 2015 20:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The 15 Most Popular Products Of 2015, As Purchased By You</title>
-    <link>http://bestsellers.kinja.com/the-15-most-popular-products-of-2015-as-purchased-by-y-1747579085</link>
-    <pubDate>Fri, 18 Dec 2015 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Partial kernel bypass merged into netmap master</title>
-    <link>https://blog.cloudflare.com/partial-kernel-bypass-merged-netmap/</link>
-    <pubDate>Sat, 19 Dec 2015 11:43:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>The console wars revisited: Two years of Xbox One vs. PS4</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c548fa9/sc/21/l/0Larstechnica0N0Cgaming0C20A150C120Cdispatches0Efrom0Ethe0Econsole0Ewars0Exbox0Eone0Evs0Eps40Etwo0Eyears0Elater0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 12:30:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Eggless condiment can still be called mayo says FDA</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c567896/sc/26/l/0Larstechnica0N0Cscience0C20A150C120Cegg0Eless0Econdiment0Ecan0Estill0Ebe0Ecalled0Emayo0Efda0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 19:00:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Last 10 Percent: How to Push Through a Project When You're Nearing the Finish Line</title>
-    <link>http://lifehacker.com/the-last-ten-percent-how-to-push-through-when-the-fini-1748686762</link>
-    <pubDate>Fri, 18 Dec 2015 16:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Places to Visit In Each State for Incredible Christmas Lights</title>
-    <link>http://lifehacker.com/the-places-to-visit-in-each-state-for-incredible-christ-1748600738</link>
-    <pubDate>Fri, 18 Dec 2015 18:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Uber scolded by judge for its confusing new contract</title>
-    <link>http://www.engadget.com/2015/12/18/uber-lawsuit-judge-scolded/</link>
-    <pubDate>Fri, 18 Dec 2015 16:37:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>Baghdad's Frist Coding Bootcamp: A Water Proof Activity</title>
-    <link>https://medium.com/iraq-s-oppritunity/a-water-proof-event-cd0604bd49ed#.7iet7dry4</link>
-    <pubDate>Sat, 19 Dec 2015 12:41:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>Show HN: Open Hunt – an open and community-run alternative to Product Hunt</title>
-    <link>https://www.openhunt.co</link>
-    <pubDate>Fri, 18 Dec 2015 18:12:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>When It Comes to Your Finances, Don’t Let Perfect Get in the Way of Better</title>
-    <link>http://twocents.lifehacker.com/when-it-comes-to-your-finances-don-t-let-perfect-get-i-1748606084</link>
-    <pubDate>Fri, 18 Dec 2015 17:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Give the Gift of littleBits DIY Electronics Kits, On Sale Today Only</title>
-    <link>http://deals.kinja.com/give-the-gift-of-littlebits-diy-electronics-kits-on-sa-1748676929</link>
-    <pubDate>Fri, 18 Dec 2015 14:21:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>NOAA hands over some e-mails for Congressman’s subpoena</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c50a8af/sc/14/l/0Larstechnica0N0Cscience0C20A150C120Cnoaa0Ehands0Eover0Esome0Ee0Emails0Efor0Econgressmans0Esubpoena0C/story01.htm</link>
-    <pubDate>Thu, 17 Dec 2015 22:20:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ben Heck Guides You Through Which Electronics Board Is Best for Your Project</title>
-    <link>http://lifehacker.com/ben-heck-guides-you-through-which-electronics-board-is-1748709889</link>
-    <pubDate>Fri, 18 Dec 2015 21:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Our friends at Kotaku have put together some great pieces on the state of the Xbox One, PlayStation </title>
-    <link>http://lifehacker.com/our-friends-at-kotaku-have-put-together-some-great-piec-1748697286</link>
-    <pubDate>Fri, 18 Dec 2015 22:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Deadspin How The Hero Of Friday Night Lights Won And Lost His Good Name | The Slot Poll: About a Thi</title>
-    <link>http://kinjaroundup.kinja.com/deadspin-how-the-hero-of-friday-night-lights-won-and-lo-1748756324</link>
-    <pubDate>Fri, 18 Dec 2015 20:16:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Evernote Is Ending Support for Clearly and Most Versions of Skitch</title>
-    <link>http://lifehacker.com/evernote-is-ending-support-for-clearly-and-most-version-1748726028</link>
-    <pubDate>Fri, 18 Dec 2015 19:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>OptionSpace Adds a Spotlight-Like Search for Menu Items in OS X</title>
-    <link>http://lifehacker.com/optionspace-adds-a-spotlight-like-search-for-menu-items-1748717856</link>
-    <pubDate>Fri, 18 Dec 2015 21:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Browser Fairy for Mac Sets Rules for Which Links Open in Which Browser </title>
-    <link>http://lifehacker.com/browser-fairy-for-mac-sets-rules-for-which-links-open-i-1748758888</link>
-    <pubDate>Fri, 18 Dec 2015 22:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Today's Best Deals: Apple MacBook, Wireless Headphones, DIY Electronics, and More</title>
-    <link>http://deals.kinja.com/todays-best-deals-apple-macbook-wireless-headphones-1748685427</link>
-    <pubDate>Fri, 18 Dec 2015 15:16:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Three Basic Questions to Ask When Tuning Up Your Investment Portfolio</title>
-    <link>http://twocents.lifehacker.com/the-three-basic-questions-to-ask-when-tuning-up-your-in-1748572329</link>
-    <pubDate>Fri, 18 Dec 2015 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Skip the Expensive Roasting Pan and Use a Rack and Baking Sheet Instead</title>
-    <link>http://lifehacker.com/skip-the-expensive-roasting-pan-and-use-a-rack-and-baki-1748712179</link>
-    <pubDate>Fri, 18 Dec 2015 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>After protests, construction equipment removed from giant telescope site</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c561f51/sc/13/l/0Larstechnica0N0Cscience0C20A150C120Cafter0Eprotests0Econstruction0Eequipment0Eremoved0Efrom0Egiant0Etelescope0Esite0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 17:06:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Glam for iPhone Connects You to On-Demand Hair, Makeup, and Nail Stylists</title>
-    <link>http://lifehacker.com/glam-for-iphone-connects-you-to-on-demand-hair-makeup-1748636831</link>
-    <pubDate>Fri, 18 Dec 2015 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Calculus Trap</title>
-    <link>https://www.artofproblemsolving.com/articles/calculus-trap</link>
-    <pubDate>Sat, 19 Dec 2015 13:46:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>Jekyll with Multi-Site Support</title>
-    <link>https://github.com/sumdog/jekyll-multisite</link>
-    <pubDate>Sat, 19 Dec 2015 14:16:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>This Week's Most Popular Posts: December 11th to 18th</title>
-    <link>http://lifehacker.com/this-weeks-most-popular-posts-december-11th-to-18th-1748721000</link>
-    <pubDate>Fri, 18 Dec 2015 18:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>American grins are just as bad as Britain’s—kind of</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c55ca11/sc/13/l/0Larstechnica0N0Cscience0C20A150C120Camerican0Egrins0Eare0Ejust0Eas0Ebad0Eas0Ebritains0Ekind0Eof0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 16:30:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Stop Checking Notifications All the Time</title>
-    <link>http://smithamilli.com/blog/notifications/</link>
-    <pubDate>Sat, 19 Dec 2015 13:43:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>Sharer.js tiny js lib to create custom share DOM elements</title>
-    <link>http://ellisonleao.github.io/sharer.js/</link>
-    <pubDate>Sat, 19 Dec 2015 15:21:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>Show HN: Cool free visualizations of your Fitbit stats</title>
-    <link>https://rocketgraph.com/reports/16-fitbit-analytics</link>
-    <pubDate>Sat, 19 Dec 2015 14:31:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>Homeconf: replicating the conference experience at home</title>
-    <link>http://markos.gaivo.net/articles/homeconf.html</link>
-    <pubDate>Sat, 19 Dec 2015 14:20:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>D-Link’s Wi-Fi camera provides a sharp, 180-degree view of your home</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c5576b4/sc/15/l/0Larstechnica0N0Cgadgets0C20A150C120Cd0Elinks0Ewi0Efi0Ecamera0Eprovides0Ea0Esharp0E180A0Edegree0Eview0Eof0Eyour0Ehome0C/story01.htm</link>
-    <pubDate>Fri, 18 Dec 2015 15:28:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>🎵 All I want for Christmas is for you to have this Open Thread 🎵</title>
-    <link>http://hackerspace.kinja.com/all-i-want-for-christmas-is-for-you-to-have-this-ope-1748339964</link>
-    <pubDate>Fri, 18 Dec 2015 16:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top 10 Tricks to Boost Your Memory and Remember Anything</title>
-    <link>http://lifehacker.com/top-10-tricks-to-boost-your-memory-and-remember-anythin-1748770380</link>
-    <pubDate>Sat, 19 Dec 2015 16:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>T.I.M.E Stories marries role-playing and board gaming—then takes a honeymoon at a French asylum</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c59bec5/sc/27/l/0Larstechnica0N0Cgaming0C20A150C120Ct0Ei0Em0Ee0Estories0Emarries0Erole0Eplaying0Eand0Eboard0Egaming0Ethen0Etakes0Ea0Ehoneymoon0Eat0Ea0Efrench0Easylum0C/story01.htm</link>
-    <pubDate>Sat, 19 Dec 2015 15:45:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>I put an $18 silicone smartphone mount on my bike, and it was sweet</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c59a6c2/sc/23/l/0Larstechnica0N0Cgadgets0C20A150C120Ci0Eput0Ean0E180Esilicone0Esmartphone0Emount0Eon0Emy0Ebike0Eand0Eit0Ewas0Esweet0C/story01.htm</link>
-    <pubDate>Sat, 19 Dec 2015 15:00:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Credit Cards That Reimburse You If Your Flight Is Delayed</title>
-    <link>http://lifehacker.com/the-credit-cards-that-reimburse-you-if-your-flight-is-d-1748720927</link>
-    <pubDate>Sat, 19 Dec 2015 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Hating parts of Star Trek is an essential part of loving Star Trek</title>
-    <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4c597fb8/sc/28/l/0Larstechnica0N0Cthe0Emultiverse0C20A150C120Chating0Eparts0Eof0Estar0Etrek0Eis0Ean0Eessential0Epart0Eof0Eloving0Estar0Etrek0C/story01.htm</link>
-    <pubDate>Sat, 19 Dec 2015 14:00:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Saturday's Best Deals: Cheap 4K Monitor, Smartphone Camera Lenses, and More</title>
-    <link>http://deals.kinja.com/saturdays-best-deals-cheap-4k-monitor-smartphone-came-1748858274</link>
-    <pubDate>Sat, 19 Dec 2015 15:03:00 GMT</pubDate>
-  </item>
-</channel>
+<rss>
+  <channel>
+    <title>NewsCure.com</title>
+    <link>http://newscure.neocities.org/rss.xml</link>
+    <image>
+      <url>http://newscure.neocities.org/favicon.ico</url>
+      <title>NewsCure.com</title>
+      <link>http://newscure.neocities.org/rss.xml</link>
+    </image>
+    <language>en-us</language>
+    <description>The remedy for information overload.</description>
+    <copyright>Copyright 2015 NewsCure.com - The contents of this feed are available for non-commercial use only.</copyright>
+    <item>
+      <title>You Don’t Need More Free Time</title>
+      <link>http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html</link>
+      <pubDate>Sun, 10 Jan 2016 16:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Backyard Fight Club as an Alternative to Gun Violence</title>
+      <link>http://www.nytimes.com/2016/01/10/us/a-backyard-fight-club-as-an-alternative-to-gun-violence.html</link>
+      <pubDate>Sat, 9 Jan 2016 18:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting ahead vs. doing well</title>
+      <link>http://sethgodin.typepad.com/seths_blog/2016/01/getting-ahead-vs-doing-well.html</link>
+      <pubDate>Sun, 10 Jan 2016 12:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panasonic's smart mirrors gave me a makeover</title>
+      <link>http://www.engadget.com/2016/01/10/panasonics-smart-mirrors-gave-me-a-makeover/</link>
+      <pubDate>Sun, 10 Jan 2016 11:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tesla's Model S now drives up to meet you</title>
+      <link>http://www.engadget.com/2016/01/09/tesla-model-s-summon-feature-live/</link>
+      <pubDate>Sat, 09 Jan 2016 21:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>John McAfee on his new startup and why he should be president</title>
+      <link>http://www.engadget.com/2016/01/10/john-mcafeee-everykey/</link>
+      <pubDate>Sun, 10 Jan 2016 08:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Birth control for men comes down to flipping a switch</title>
+      <link>http://www.engadget.com/2016/01/10/sperm-switch/</link>
+      <pubDate>Sun, 10 Jan 2016 01:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The physics of life</title>
+      <link>http://www.nature.com/news/the-physics-of-life-1.19105</link>
+      <pubDate>Fri, 8 Jan 2016 18:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>San Francisco Office Rents Pass Manhattan as Most Expensive in Country</title>
+      <link>http://bits.blogs.nytimes.com/2016/01/08/san-francisco-office-rents-pass-manhattan-as-most-expensive-in-country/</link>
+      <pubDate>Sat, 9 Jan 2016 23:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX will attempt to land a rocket on a barge yet again</title>
+      <link>http://www.engadget.com/2016/01/09/spacex-barge-landing-attempt/</link>
+      <pubDate>Sat, 09 Jan 2016 12:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ben Heck's Pi Top Assembly demo</title>
+      <link>http://www.engadget.com/2016/01/10/ben-hecks-pi-top-assembly-demo/</link>
+      <pubDate>Sun, 10 Jan 2016 10:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Samsung's weird wearables include a smart suit and solar purse</title>
+      <link>http://www.engadget.com/2016/01/10/samsung-smart-wearables/</link>
+      <pubDate>Sun, 10 Jan 2016 09:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Inhabitat Week in Green: All the EVs at CES, and more!</title>
+      <link>http://www.engadget.com/2016/01/10/inhabitat-week-in-green-ces-2016/</link>
+      <pubDate>Sun, 10 Jan 2016 11:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabian Startup NOMADD Looks To Clean Up Solar Energy Production</title>
+      <link>http://techcrunch.com/2016/01/10/saudi-arabian-startup-nomadd-looks-to-clean-up-solar-energy-production/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 16:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photo Evidence Shows Facebook Is Building Messenger For Mac</title>
+      <link>http://techcrunch.com/2016/01/09/facebook-messenger-for-mac/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 19:08:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York City's whole subway system gets WiFi in 2016</title>
+      <link>http://www.engadget.com/2016/01/09/new-york-city-whole-subway-wifi/</link>
+      <pubDate>Sat, 09 Jan 2016 11:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>A Night Out in the Twenties</title>
+      <link>http://www.theparisreview.org/blog/2015/01/06/a-night-out-in-the-twenties-2/</link>
+      <pubDate>Thu, 7 Jan 2016 22:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook is reportedly making a Messenger app for Mac</title>
+      <link>http://www.engadget.com/2016/01/09/facebook-messenger-mac-leak/</link>
+      <pubDate>Sat, 09 Jan 2016 22:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Freeze-dried poop pills being tested for obesity treatment</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd226f/sc/14/l/0Larstechnica0N0Cscience0C20A160C0A10Cfreeze0Edried0Epoop0Epills0Ebeing0Etested0Efor0Eobesity0Etreatment0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 21:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reimagining Internet.org</title>
+      <link>http://techcrunch.com/2016/01/10/reimagining-internet-org/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 16:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>These Secret Netflix Codes Can Reveal Tons of Hidden Categories</title>
+      <link>http://lifehacker.com/these-secret-netflix-codes-can-reveal-tons-of-hidden-ca-1752004157</link>
+      <pubDate>Sat, 9 Jan 2016 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Trouble with the TPP, Day 5: Rights Holders “Shall” vs. Users “May”</title>
+      <link>http://www.michaelgeist.ca/2016/01/the-trouble-with-the-tpp-day-5-rights-holders-shall-vs-users-may/</link>
+      <pubDate>Sun, 10 Jan 2016 06:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Of The Coolest Gadgets We Saw At CES 2016</title>
+      <link>http://techcrunch.com/2016/01/09/10-of-the-coolest-gadgets-we-saw-at-ces-2016/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 21:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Requiem for a Trijet Masterpiece – The Lockheed L-1011</title>
+      <link>http://www.airlinereporter.com/2015/09/requiem-trijet-masterpiece-lockheed-l-1011-tristar/</link>
+      <pubDate>Sun, 10 Jan 2016 00:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running costs for running a web app</title>
+      <link>http://cushionapp.com/expenses/</link>
+      <pubDate>Sun, 10 Jan 2016 16:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carl Zeiss thinks it can make smart glasses you'll want to wear</title>
+      <link>http://www.engadget.com/2016/01/09/carl-zeiss-smart-lens-curved-glass/</link>
+      <pubDate>Sat, 09 Jan 2016 15:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Holorama reproduces your favorite scenes in a tiny holo-theather</title>
+      <link>http://www.engadget.com/2016/01/09/holorama-twin-peaks-big-lebowski/</link>
+      <pubDate>Sat, 09 Jan 2016 23:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google And Amazon Talk About Managing Drone Traffic At CES</title>
+      <link>http://techcrunch.com/2016/01/09/google-and-amazon-talk-about-managing-drone-traffic-at-ces/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 21:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>US college campuses ban 'hoverboards' over fire risks</title>
+      <link>http://www.engadget.com/2016/01/10/us-college-campuses-ban-hoverboards/</link>
+      <pubDate>Sun, 10 Jan 2016 05:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taking a spin in the electrified Chevy Bolt EV</title>
+      <link>http://www.engadget.com/2016/01/09/chevy-bolt-drive/</link>
+      <pubDate>Sat, 09 Jan 2016 19:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Doom reboot teased with new screens, Game Informer preview</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbfb799/sc/27/l/0Larstechnica0N0Cgaming0C20A160C0A10Cdoom0Ereboot0Eteased0Ewith0Enew0Escreens0Egame0Einformer0Epreview0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 14:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>'Game of Thrones' is now a pinball machine</title>
+      <link>http://www.engadget.com/2016/01/09/game-of-thrones-is-now-a-pinball-machine/</link>
+      <pubDate>Sat, 09 Jan 2016 13:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Faraday Future’s Chief Engineer Is Short On Answers, Full Of Buzzwords</title>
+      <link>http://techcrunch.com/2016/01/09/faraday-futures-chief-engineer-is-short-on-answers-full-of-buzzwords/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 18:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wearables are inching toward a purpose in 2016</title>
+      <link>http://www.engadget.com/2016/01/09/wearables-are-inching-towards-a-purpose-in-2016/</link>
+      <pubDate>Sat, 09 Jan 2016 20:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ad Tech Is the Worst Thing That Ever Happened to Advertising</title>
+      <link>http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/</link>
+      <pubDate>Sat, 9 Jan 2016 20:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla Model S can now park itself</title>
+      <link>http://techcrunch.com/2016/01/09/tesla-model-s-can-now-drive-without-you/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29#.xutgnk:vf2N</link>
+      <pubDate>Sun, 10 Jan 2016 02:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Startups Are Solving A Decades-Old Problem In Education</title>
+      <link>http://techcrunch.com/2016/01/09/how-startups-are-solving-a-decades-old-problem-in-education/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 04:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The DeanBeat: The 10 best technologies of the Consumer Electronics Show</title>
+      <link>http://venturebeat.com/2016/01/09/the-deanbeat-the-10-best-technologies-of-the-consumer-electronics-show/</link>
+      <pubDate>Sat, 09 Jan 2016 16:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2015 Analytics Software Market</title>
+      <link>http://techcrunch.com/2016/01/09/the-year-in-analytics/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 16:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Endless Has Built A $79 PC For The Offline World</title>
+      <link>http://techcrunch.com/2016/01/09/endless-launch/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 19:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla Model S Can Now Drive Without You</title>
+      <link>http://techcrunch.com/2016/01/09/tesla-model-s-can-now-drive-without-you/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 22:13:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>2016 will be Silicon Valley’s hangover year</title>
+      <link>http://venturebeat.com/2016/01/09/2016-will-be-silicon-valleys-hangover-year/</link>
+      <pubDate>Sat, 09 Jan 2016 16:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Pinterest and its ad sales operation</title>
+      <link>http://www.businessinsider.com/pinterest-worth-11-billion-valuation-revenue-grow-5x-2015</link>
+      <pubDate>Sun, 10 Jan 2016 08:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Arcimoto SRK electric vehicle is the most fun thing we did at CES</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbfbf69/sc/3/l/0Larstechnica0N0Ccars0C20A160C0A10Cthe0Earcimoto0Esrk0Eelectric0Evehicle0Eis0Ethe0Emost0Efun0Ething0Ewe0Edid0Eat0Eces0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 15:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fee-For-Value Drives Trillion-Dollar Healthcare Opportunity</title>
+      <link>http://techcrunch.com/2016/01/09/fee-for-value-drives-trillion-dollar-healthcare-opportunity/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 20:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>I became a cyborg to feel older, not stronger</title>
+      <link>http://www.engadget.com/2016/01/09/i-became-a-cyborg-to-feel-older-not-stronger/</link>
+      <pubDate>Sat, 09 Jan 2016 17:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Parrot’s glider-like Disco drone can fly 50 mph and stay airborne for 45 minutes</title>
+      <link>http://venturebeat.com/2016/01/10/parrots-new-glider-like-disco-drone-can-fly-50-miles-per-hour-and-stay-airborne-for-45-minutes/</link>
+      <pubDate>Sun, 10 Jan 2016 17:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grow Fresh Green Onions Any Time of Year In a Plastic Bottle</title>
+      <link>http://lifehacker.com/grow-fresh-green-onions-any-time-of-year-in-a-plastic-b-1751200446</link>
+      <pubDate>Sat, 9 Jan 2016 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C-Way Is An Apple Watch For Kids</title>
+      <link>http://techcrunch.com/2016/01/09/c-way-is-an-apple-watch-for-kids/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 00:05:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>At CES, plenty of companies want to put a Fitbit on your furbabies</title>
+      <link>http://www.engadget.com/2016/01/09/at-ces-plenty-of-companies-want-to-put-a-fitbit-on-your-furbabi/</link>
+      <pubDate>Sat, 09 Jan 2016 20:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Writing high-performance servers in modern C++</title>
+      <link>https://medium.com/@jamesperry/writing-high-performance-servers-in-modern-c-7cd00926828#.lcsmnff1d</link>
+      <pubDate>Sun, 10 Jan 2016 12:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Donald Trump’s hammer would do to U.S. tech</title>
+      <link>http://venturebeat.com/2016/01/09/what-donald-trumps-hammer-would-do-to-u-s-tech/</link>
+      <pubDate>Sat, 09 Jan 2016 17:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the UK, doctors can now prescribe e-cigarettes to help you quit smoking</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc0079d/sc/14/l/0Larstechnica0N0Cscience0C20A160C0A10Cuk0Edoctors0Ecan0Enow0Eprescribe0Ee0Ecigarettes0Eto0Ehelp0Eyou0Equit0Esmoking0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 16:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building an OpenBSD Router</title>
+      <link>http://www.openbsd.org/faq/pf/example1.html</link>
+      <pubDate>Sun, 10 Jan 2016 12:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edwin The Duck Is A $99 Connected Rubber Ducky 🐥</title>
+      <link>http://techcrunch.com/2016/01/09/lucas-talks-to-a-duck/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 20:59:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sling TV CEO on the competition and internet TV's future</title>
+      <link>http://www.engadget.com/2016/01/09/sling-tv-ceo-ces-interview/</link>
+      <pubDate>Sat, 09 Jan 2016 14:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sony tries to trademark Let’s Play and pisses off the Internet</title>
+      <link>http://venturebeat.com/2016/01/08/sony-tries-to-trademark-lets-play-and-pisses-off-the-internet/</link>
+      <pubDate>Sat, 09 Jan 2016 03:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nest’s Smart Home Apps Are Back Online Following Outages</title>
+      <link>http://techcrunch.com/2016/01/09/nests-smart-home-apps-are-back-online-following-outages/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 01:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time Warner fights Netflix by offering TV seasons on-demand</title>
+      <link>http://www.engadget.com/2016/01/09/time-warner-fights-netflix-with-on-demand-seasons/</link>
+      <pubDate>Sat, 09 Jan 2016 16:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rocket Internet-Backed Easy Taxi Confirms Asia Exit, Doubles Down On Latin America</title>
+      <link>http://techcrunch.com/2016/01/09/easy-taxi-confirms-asia-exit/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 04:20:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 investment mistakes I won’t make in 2016</title>
+      <link>http://venturebeat.com/2016/01/10/4-investment-mistakes-i-wont-make-in-2016/</link>
+      <pubDate>Sun, 10 Jan 2016 16:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The $79 Endless Mini aims to reach billions without PCs</title>
+      <link>http://venturebeat.com/2016/01/10/the-79-endless-mini-aims-to-reach-billions-without-pcs/</link>
+      <pubDate>Sun, 10 Jan 2016 16:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GameFace Labs On Their Upcoming Untethered VR Headset</title>
+      <link>http://techcrunch.com/2016/01/09/gameface-labs-on-their-upcoming-untethered-vr-headset/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 20:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The scooters of CES: Riding the Genze and chatting with Gogoro</title>
+      <link>http://www.engadget.com/2016/01/09/ces-scooters/</link>
+      <pubDate>Sat, 09 Jan 2016 16:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Linked love: OKCupid offers options for polyamorous couples</title>
+      <link>http://www.engadget.com/2016/01/09/linked-love-okcupid-offers-options-for-polyamorous-couples/</link>
+      <pubDate>Sat, 09 Jan 2016 12:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Edit your GoPro videos on your TV with Sugarlock</title>
+      <link>http://www.engadget.com/2016/01/09/sugarlock-actioncam-dock/</link>
+      <pubDate>Sat, 09 Jan 2016 18:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Report: Next-generation iPhone design will ditch the 3.5mm headphone jack</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd5e6c/sc/15/l/0Larstechnica0N0Capple0C20A160C0A10Creport0Enext0Egeneration0Eiphone0Edesign0Ewill0Editch0Ethe0E30E5mm0Eheadphone0Ejack0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 23:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nielsen wired me with sensors and exposed my CES tech fetish</title>
+      <link>http://www.engadget.com/2016/01/09/nielsen-consumer-neuroscience-ces-2016-video/</link>
+      <pubDate>Sat, 09 Jan 2016 14:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Make Your Own "USB Condom" for Added Security When Charging from Untrusted USB Ports</title>
+      <link>http://lifehacker.com/make-your-own-usb-condom-for-added-security-when-char-1751213671</link>
+      <pubDate>Sat, 9 Jan 2016 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HP’s EliteBook Folio is basically a MacBook with two ports and that’s great</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd899d/sc/15/l/0Larstechnica0N0Cgadgets0C20A160C0A10Chps0Eelitebook0Efolio0Eis0Ebasically0Ea0Emacbook0Ewith0Etwo0Eports0Eand0Ethats0Egreat0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 00:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compilers targeting C - a list of open source compilers that can generate C code</title>
+      <link>https://github.com/dbohdan/compilers-targeting-c</link>
+      <pubDate>Sun, 10 Jan 2016 13:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>At the CES 'Shark Tank' open call, the optimism is infectious</title>
+      <link>http://www.engadget.com/2016/01/09/ces-shark-tank-open-call/</link>
+      <pubDate>Sat, 09 Jan 2016 15:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DoYogaWithMe Streams Hundreds of Yoga Videos for Free</title>
+      <link>http://lifehacker.com/doyogawithme-streams-hundreds-of-yoga-videos-for-free-1751879486</link>
+      <pubDate>Sat, 9 Jan 2016 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hands-on with Peach, a new iOS-only social network that feels a lot like Slack</title>
+      <link>http://venturebeat.com/2016/01/08/hands-on-with-peach-a-new-ios-only-social-network-that-feels-a-lot-like-slack/</link>
+      <pubDate>Sat, 09 Jan 2016 02:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kickass Torrents is down (Update: It’s back)</title>
+      <link>http://venturebeat.com/2016/01/09/kickass-torrents-is-down/</link>
+      <pubDate>Sat, 09 Jan 2016 17:48:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Ways to Brainstorm New Ideas</title>
+      <link>http://lifehacker.com/top-10-ways-to-brainstorm-new-ideas-1751904888</link>
+      <pubDate>Sat, 9 Jan 2016 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digital advertising forecast for 2016: Brands cut back, agencies double down</title>
+      <link>http://venturebeat.com/2016/01/09/digital-advertising-forecast-for-2016-brands-cut-back-agencies-double-down/</link>
+      <pubDate>Sun, 10 Jan 2016 07:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>What To Know Before You Co-Invest</title>
+      <link>http://techcrunch.com/2016/01/09/tips-for-co-investing/?ncid=rss</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next week, five states’ IDs will stop working in federal facilities</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd3b23/sc/28/l/0Larstechnica0N0Ctech0Epolicy0C20A160C0A10Cnext0Eweek0Efive0Estates0Eids0Ewill0Estop0Eworking0Ein0Efederal0Efacilities0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 22:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build a Smart Calendar and Notification Center for Family Agendas with a Raspberry Pi</title>
+      <link>http://lifehacker.com/build-a-smart-calendar-and-notification-center-for-fami-1751637798</link>
+      <pubDate>Fri, 8 Jan 2016 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter stock ends the day hovering below $20 — an all-time low</title>
+      <link>http://venturebeat.com/2016/01/08/twitter-stock-ends-the-day-hovering-below-20-an-all-time-low/</link>
+      <pubDate>Fri, 08 Jan 2016 21:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gillmor Gang: Stock Footage</title>
+      <link>http://techcrunch.com/2016/01/09/gillmor-gang-stock-footage/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 18:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unethical Growth Hacking from YayView</title>
+      <link>https://lord.io/blog/2016/yayview/</link>
+      <pubDate>Sun, 10 Jan 2016 09:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perfectly Sear Pork Chops Without Overcooking Them With This Oven Trick</title>
+      <link>http://lifehacker.com/perfectly-sear-pork-chops-without-overcooking-them-with-1752027592</link>
+      <pubDate>Sat, 9 Jan 2016 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reimagining Internet.org</title>
+      <link>http://techcrunch.com/2016/01/10/reimagining-internet-org/</link>
+      <pubDate>Sun, 10 Jan 2016 16:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Supreme Court tackle 1st Amendment issue in Madden NFL litigation?</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbf9d6a/sc/13/l/0Larstechnica0N0Ctech0Epolicy0C20A160C0A10Cwill0Esupreme0Ecourt0Etackle0E1st0Eamendment0Eissue0Ein0Emadden0Enfl0Elitigation0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 14:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>How To Win At A Casino</title>
+      <link>http://adequateman.deadspin.com/how-to-win-at-a-casino-1751238429</link>
+      <pubDate>Fri, 8 Jan 2016 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Risks And Red Lines As UK Prepares To Reforge Surveillance Law</title>
+      <link>http://techcrunch.com/2016/01/09/ip-bill-sfs-2016/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 18:44:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>In The Big Book of Madness, you will learn to love losing</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc035e8/sc/27/l/0Larstechnica0N0Cgaming0C20A160C0A10Cin0Ethe0Ebig0Ebook0Eof0Emadness0Eyou0Ewill0Elearn0Eto0Elove0Elosing0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 17:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday's Best Deals: PS4 Fighting Controller, MicroSD Cards, Desk Lamp, and More</title>
+      <link>http://deals.kinja.com/saturdays-best-deals-ps4-fighting-controller-microsd-1751987903</link>
+      <pubDate>Sat, 9 Jan 2016 16:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>What makes a great company? Let’s talk information flow</title>
+      <link>http://venturebeat.com/2016/01/09/what-makes-a-great-company-lets-talk-information-flow/</link>
+      <pubDate>Sun, 10 Jan 2016 04:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>How To Ride In The Rain Without Crashing Or Being Miserable</title>
+      <link>http://lanesplitter.jalopnik.com/how-to-ride-in-the-rain-without-crashing-or-being-miser-1751724187</link>
+      <pubDate>Fri, 8 Jan 2016 17:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google patents a wearable that tells you to take your medications when you eat</title>
+      <link>http://venturebeat.com/2016/01/09/google-patents-a-wearable-that-tells-you-to-take-your-medications-when-you-eat/</link>
+      <pubDate>Sun, 10 Jan 2016 02:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla’s new firmware improves Autosteer, adds remote parking—of a sort</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc0fb72/sc/21/l/0Larstechnica0N0Ccars0C20A160C0A10Cteslas0Enew0Efirmware0Eimproves0Eautosteer0Eadds0Eremote0Eparking0Eof0Ea0Esort0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 23:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>This Week's Top Downloads</title>
+      <link>http://lifehacker.com/this-weeks-top-downloads-1751900818</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why a Road Trip Should Be On Your Job Hunting Agenda</title>
+      <link>http://lifehacker.com/why-a-road-trip-should-be-on-your-job-hunting-agenda-1751201576</link>
+      <pubDate>Sat, 9 Jan 2016 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fastdom – a weapon in the war against jank</title>
+      <link>https://github.com/wilsonpage/fastdom</link>
+      <pubDate>Sat, 9 Jan 2016 19:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salt Chicken Before Freezing for Juicier Meat</title>
+      <link>http://lifehacker.com/salt-chicken-before-freezing-for-juicier-meat-1751803611</link>
+      <pubDate>Fri, 8 Jan 2016 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hierarchies with Postgres (2013)</title>
+      <link>http://www.monkeyandcrow.com/blog/hierarchies_with_postgres/</link>
+      <pubDate>Sun, 10 Jan 2016 12:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISPs mad that FCC wants faster broadband deployment</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd2271/sc/28/l/0Larstechnica0N0Cbusiness0C20A160C0A10Ccable0Eindustry0Ethinks0Eus0Ebroadband0Edeployment0Eis0Ealready0Efast0Eenough0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 21:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The top 25 most popular Wikipedia articles of 2015</title>
+      <link>http://venturebeat.com/2016/01/09/the-25-most-read-wikipedia-articles-of-2015/</link>
+      <pubDate>Sat, 09 Jan 2016 14:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Recipelab, a simple nutrition calculator / recipe analyzer</title>
+      <link>https://recipelab.org/</link>
+      <pubDate>Sun, 10 Jan 2016 16:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandrake Linux commercial (1999) [video]</title>
+      <link>https://www.youtube.com/watch?v=3szC4TGgFkc</link>
+      <pubDate>Sat, 9 Jan 2016 23:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decide Which Programming Language to Learn with This Interactive Quiz</title>
+      <link>http://lifehacker.com/decide-which-programming-language-to-learn-with-this-in-1751673162</link>
+      <pubDate>Fri, 8 Jan 2016 21:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The big short, the housing bubble and the financial crisis</title>
+      <link>http://cepr.net/blogs/beat-the-press/the-big-short-the-housing-bubble-and-the-financial-crisis</link>
+      <pubDate>Sat, 9 Jan 2016 19:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hands-on demo of the Samsung Family Hub refrigerator</title>
+      <link>http://venturebeat.com/2016/01/09/hands-on-demo-of-the-samsung-famliy-hub-refrigerator/</link>
+      <pubDate>Sat, 09 Jan 2016 21:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mixpanel starts 2016 with layoffs: ‘We just overhired’</title>
+      <link>http://venturebeat.com/2016/01/08/mixpanel-starts-2016-with-layoffs-we-just-overhired/</link>
+      <pubDate>Fri, 08 Jan 2016 20:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei Mate 8 review</title>
+      <link>http://venturebeat.com/2016/01/09/huawei-mate-8-review/</link>
+      <pubDate>Sat, 09 Jan 2016 09:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ParrotRead Scans Your Twitter Feed for Book Recommendations </title>
+      <link>http://lifehacker.com/parrotread-scans-your-twitter-feed-for-book-recommendat-1751230739</link>
+      <pubDate>Fri, 8 Jan 2016 22:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Search This Database for Hidden Illegal Drugs in Your Supplements</title>
+      <link>http://vitals.lifehacker.com/search-this-database-for-hidden-illegal-drugs-in-your-s-1751669788</link>
+      <pubDate>Fri, 8 Jan 2016 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>States say Volkswagen has refused to turn over internal documents</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd635c/sc/7/l/0Larstechnica0N0Ctech0Epolicy0C20A160C0A10Cus0Eattorneys0Egeneral0Esay0Evolkswagen0Ehas0Erefused0Eto0Eturn0Eover0Einternal0Edocuments0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 23:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Make a Secret Bookshelf Stash for Hiding Valuables With Some Old Binders</title>
+      <link>http://lifehacker.com/make-a-secret-bookshelf-stash-for-hiding-valuables-with-1751922920</link>
+      <pubDate>Sat, 9 Jan 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How does alcohol influence the brain?</title>
+      <link>http://theneurosphere.com/2016/01/09/how-does-alcohol-influence-the-mind-a-look-into-the-brain-and-its-genes/</link>
+      <pubDate>Sat, 9 Jan 2016 17:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Today's Best Deals: Solar USB Chargers, Yoga Gear, Fitbit Sale, and More</title>
+      <link>http://deals.kinja.com/todays-best-deals-solar-usb-chargers-yoga-gear-fitbi-1751794714</link>
+      <pubDate>Fri, 8 Jan 2016 14:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>CES 2016 drew more than 170,000 attendees for tech’s biggest trade show</title>
+      <link>http://venturebeat.com/2016/01/09/ces-2016-drew-more-than-170000-attendees-for-techs-biggest-trade-show/</link>
+      <pubDate>Sun, 10 Jan 2016 04:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneAdaptr’s Stack surge protector takes a lesson from Lego</title>
+      <link>http://venturebeat.com/2016/01/09/oneadaptrs-stack-surge-protector-takes-a-lesson-from-lego/</link>
+      <pubDate>Sat, 09 Jan 2016 17:01:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federal hacking conviction follows pro baseball scouting scandal</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd5e70/sc/28/l/0Larstechnica0N0Ctech0Epolicy0C20A160C0A10Cfederal0Ehacking0Econviction0Efollows0Epro0Ebaseball0Escouting0Escandal0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 23:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>UK tightens drinking guidelines—no more than 6 beers a week</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd4b16/sc/14/l/0Larstechnica0N0Cscience0C20A160C0A10Cuk0Etightens0Edrinking0Eguidelines0Eno0Emore0Ethan0E60Ebeers0Ea0Eweek0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 22:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arizona lawmaker wants to make filming cops a crime—if you’re too close</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbcf3cf/sc/13/l/0Larstechnica0N0Ctech0Epolicy0C20A160C0A10Carizona0Elawmaker0Ewants0Eto0Emake0Efilming0Ecops0Ea0Ecrime0Eif0Eyoure0Etoo0Eclose0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 20:50:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. meets tech leaders, forms task force to fight online militants</title>
+      <link>http://venturebeat.com/2016/01/09/u-s-meets-tech-leaders-forms-task-force-to-fight-online-militants/</link>
+      <pubDate>Sat, 09 Jan 2016 08:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Always Have Enough Appetizers for Your Party Guests With This Simple Rule</title>
+      <link>http://lifehacker.com/always-have-enough-appetizers-for-your-party-guests-wit-1751917010</link>
+      <pubDate>Fri, 8 Jan 2016 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fareness Finds the Lowest Priced Trips Based on Your Flexible Schedule</title>
+      <link>http://lifehacker.com/fareness-finds-the-lowest-priced-trips-based-on-your-fl-1751808716</link>
+      <pubDate>Fri, 8 Jan 2016 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit publishes real-life dead-tree book of its “best” AMAs</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbf9731/sc/27/l/0Larstechnica0N0Cthe0Emultiverse0C20A160C0A10Creddit0Epublishes0Ereal0Elife0Edead0Etree0Ebook0Eof0Eits0Ebest0Eamas0C/story01.htm</link>
+      <pubDate>Sat, 09 Jan 2016 13:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter10k: A good idea, but a bad idea</title>
+      <link>http://venturebeat.com/2016/01/09/twitter10k-a-good-idea-but-a-bad-idea/</link>
+      <pubDate>Sat, 09 Jan 2016 19:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>AddThis to Oracle’s Mordor of marketing clouds</title>
+      <link>http://venturebeat.com/2016/01/09/addthis-to-oracles-mordor-of-marketing-clouds/</link>
+      <pubDate>Sat, 09 Jan 2016 18:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix didn’t launch in China, but it’s still working there</title>
+      <link>http://venturebeat.com/2016/01/09/netflix-didnt-launch-in-china-but-theyre-still-working-there/</link>
+      <pubDate>Sun, 10 Jan 2016 00:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple and Google reportedly in talks to stream NFL’s London games</title>
+      <link>http://venturebeat.com/2016/01/08/apple-and-google-reportedly-in-talks-to-stream-nfls-london-games/</link>
+      <pubDate>Fri, 08 Jan 2016 17:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bonaverde Plans To Reinvent The Way You Drink Coffee</title>
+      <link>http://techcrunch.com/2016/01/09/bonaverde-plans-to-reinvent-the-way-you-drink-coffee/?ncid=rss</link>
+      <pubDate>Sat, 09 Jan 2016 23:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video startup quits T-Mobile’s Binge On over net neutrality concern</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cbd4b18/sc/28/l/0Larstechnica0N0Cbusiness0C20A160C0A10Cvideo0Estartup0Equits0Et0Emobiles0Ebinge0Eon0Eover0Enet0Eneutrality0Econcern0C/story01.htm</link>
+      <pubDate>Fri, 08 Jan 2016 22:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>App makers: Stop creeping out users with personalization</title>
+      <link>http://venturebeat.com/2016/01/09/app-makers-how-to-stop-creeping-out-users-with-personalization/</link>
+      <pubDate>Sat, 09 Jan 2016 20:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 8 best brand uses of emojis so far</title>
+      <link>http://venturebeat.com/2016/01/09/the-8-best-brand-uses-of-emojis-so-far/</link>
+      <pubDate>Sat, 09 Jan 2016 21:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan’s fashion rental service AirCloset snags $8M</title>
+      <link>http://venturebeat.com/2016/01/09/japans-fashion-rental-service-aircloset-snags-8m/</link>
+      <pubDate>Sat, 09 Jan 2016 11:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>If you have $50K to blow, this very real virtual racing game will blow your mind</title>
+      <link>http://venturebeat.com/2016/01/08/if-you-have-50k-to-blow-this-very-real-virtual-racing-game-will-blow-your-mind/</link>
+      <pubDate>Sat, 09 Jan 2016 01:51:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>io9 Everything That’s Wrong With Star Wars: The Force Awakens | Kotaku Stepmania Played At Super Spe</title>
+      <link>http://kinjaroundup.kinja.com/io9-everything-that-s-wrong-with-star-wars-the-force-a-1751891301</link>
+      <pubDate>Fri, 8 Jan 2016 21:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman announces YC leadership changes, says it’s ‘far too big for any person to run all of it’</title>
+      <link>http://venturebeat.com/2016/01/08/sam-altman-announces-yc-leadership-changes-says-its-far-too-big-for-any-person-to-run-all-of-it/</link>
+      <pubDate>Fri, 08 Jan 2016 20:34:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to become an email powerhouse — and increase opens, clicks, and revenue (webinar)</title>
+      <link>http://venturebeat.com/2016/01/08/how-to-become-an-email-powerhouse-and-increase-opens-clicks-and-revenue-webinar/</link>
+      <pubDate>Fri, 08 Jan 2016 16:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Save $4 On Your Larabar or Nature Valley Resupply, Courtesy of Amazon</title>
+      <link>http://deals.kinja.com/save-4-on-your-larabar-or-nature-valley-resupply-cour-1751879670</link>
+      <pubDate>Fri, 8 Jan 2016 20:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep learning pipeline for orbital satellite data for detecting clouds</title>
+      <link>https://github.com/BradNeuberg/cloudless</link>
+      <pubDate>Sat, 9 Jan 2016 16:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Implementation of J</title>
+      <link>http://sblom.github.io/openj-core/ioj.htm</link>
+      <pubDate>Sun, 10 Jan 2016 05:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Freeciv-Earth play anywhere on earth</title>
+      <link>https://play.freeciv.org/freeciv-earth/</link>
+      <pubDate>Sat, 9 Jan 2016 16:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unix Delenda Est (2015)</title>
+      <link>http://housejeffries.com/page/3</link>
+      <pubDate>Sat, 9 Jan 2016 23:52:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>GCC 6 Will Warn You About Misleading Code Indentations</title>
+      <link>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC6-Misleading-Indentation</link>
+      <pubDate>Sun, 10 Jan 2016 14:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simple instructions for freezing a Skylake Processor</title>
+      <link>https://communities.intel.com/thread/96157?start=15&amp;tstart=0</link>
+      <pubDate>Sat, 9 Jan 2016 19:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>How can I contact the certification team (Amazon Alexa)</title>
+      <link>https://forums.developer.amazon.com/forums/thread.jspa?threadID=10548&amp;tstart=0</link>
+      <pubDate>Sun, 10 Jan 2016 16:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Money Transfer Showdown: Square Cash vs. Venmo vs. PayPal</title>
+      <link>http://lifehacker.com/money-transfer-showdown-square-cash-vs-venmo-vs-payp-1752058723</link>
+      <pubDate>Sun, 10 Jan 2016 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enough of this console nonsense: It’s time to put a gaming PC in my living room</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc3afa1/sc/27/l/0Larstechnica0N0Cgaming0C20A160C0A10Cenough0Eof0Ethis0Econsole0Enonsense0Eits0Etime0Eto0Eput0Ea0Egaming0Epc0Ein0Emy0Eliving0Eroom0C/story01.htm</link>
+      <pubDate>Sun, 10 Jan 2016 16:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>This DIY Thermal Camera Reveals Hot and Cold Spots Around the House, Is Fun to Build</title>
+      <link>http://lifehacker.com/this-diy-thermal-camera-reveals-hot-and-cold-spots-arou-1751202998</link>
+      <pubDate>Sun, 10 Jan 2016 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Two months after FBI debacle, Tor Project still can’t get an answer from CMU</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc3506b/sc/28/l/0Larstechnica0N0Csecurity0C20A160C0A10Cgoing0Eforward0Ethe0Etor0Eproject0Ewants0Eto0Ebe0Eless0Ereliant0Eon0Eus0Egovt0Efunding0C/story01.htm</link>
+      <pubDate>Sun, 10 Jan 2016 14:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Juniper drops NSA-developed code following new backdoor revelations</title>
+      <link>http://arstechnica.com.feedsportal.com/c/35364/f/663720/s/4cc3abb1/sc/21/l/0Larstechnica0N0Csecurity0C20A160C0A10Cjuniper0Edrops0Ensa0Edeveloped0Ecode0Efollowing0Enew0Ebackdoor0Erevelations0C/story01.htm</link>
+      <pubDate>Sun, 10 Jan 2016 15:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sunday's Best Deals: Yoga Gear, Cheap Supplements, 5TB Hard Drive, and More</title>
+      <link>http://deals.kinja.com/sundays-best-deals-yoga-gear-cheap-supplements-5tb-h-1752088184</link>
+      <pubDate>Sun, 10 Jan 2016 15:11:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
